@@ -1,0 +1,1001 @@
+﻿delivery_id,date,origin,destination,vehicle,distance_km,fuel_cost,toll_cost,maintenance_cost,delivery_time_hours,on_time,weather,total_cost
+1,2025-04-13,Belo Horizonte,Fortaleza,Truck 2,210,643.06,152.06,235.98,7.7,0,Cloudy,1031.1
+2,2025-12-15,Rio de Janeiro,Goiânia,Truck 9,410,610.38,171.2,5.19,6.4,1,Cloudy,786.77
+3,2025-09-28,Fortaleza,Belo Horizonte,Truck 1,1450,425.11,118.1,164.91,7.2,1,Sunny,708.12
+4,2025-04-17,São Paulo,Porto Alegre,Truck 8,1350,857.78,35.62,257.33,12.6,1,Sunny,1150.73
+5,2025-03-13,Porto Alegre,Goiânia,Truck 6,740,802.28,62.63,142.23,6.7,1,Rainy,1007.14
+6,2025-07-08,Goiânia,São Paulo,Truck 6,2410,786.29,49.69,1.23,9.2,1,Cloudy,837.21
+7,2025-01-21,Salvador,Curitiba,Truck 18,710,900.95,42.43,3.3,7.7,1,Sunny,946.68
+8,2025-04-13,Recife,Belo Horizonte,Truck 17,900,778.23,85.86,124.99,9.1,0,Cloudy,989.08
+9,2025-05-02,Goiânia,Salvador,Truck 12,1660,385.47,61.29,46.5,10.1,1,Sunny,493.26000000000005
+10,2025-08-03,São Paulo,Goiânia,Truck 6,2800,764.45,59.29,199.34,7.1,1,Sunny,1023.08
+11,2025-11-27,Porto Alegre,Porto Alegre,Truck 8,740,446.16,29.84,212.64,9.8,1,Rainy,688.64
+12,2025-03-29,São Paulo,São Paulo,Truck 19,1450,393.74,23.18,53.36,14.9,1,Sunny,470.28000000000003
+13,2025-04-10,Brasília,Fortaleza,Truck 10,1550,258.4,38.5,266.56,9.4,1,Sunny,563.46
+14,2025-12-26,Rio de Janeiro,Salvador,Truck 1,3500,795.22,51.0,132.57,12.0,1,Sunny,978.79
+15,2025-06-01,Salvador,Goiânia,Truck 13,740,768.8,97.58,42.85,9.2,1,Sunny,909.23
+16,2025-05-11,Curitiba,Curitiba,Truck 17,1960,387.6,111.89,229.28,5.7,1,Rainy,728.77
+17,2025-05-30,Rio de Janeiro,Salvador,Truck 3,3500,799.5,45.31,236.99,8.7,1,Cloudy,1081.8
+18,2025-11-05,Curitiba,São Paulo,Truck 8,1550,934.27,96.46,191.79,7.2,1,Cloudy,1222.52
+19,2025-09-15,Porto Alegre,Salvador,Truck 14,2800,286.42,81.51,256.04,6.5,0,Rainy,623.97
+20,2025-12-10,Fortaleza,Brasília,Truck 3,740,386.11,53.02,221.21,7.8,1,Sunny,660.34
+21,2025-10-21,Recife,Recife,Truck 16,800,800.21,21.23,264.66,7.6,1,Sunny,1086.1000000000001
+22,2025-07-11,Belo Horizonte,Fortaleza,Truck 13,0,419.61,104.06,130.17,5.4,1,Sunny,653.84
+23,2025-10-04,Rio de Janeiro,São Paulo,Truck 20,1360,699.73,143.42,224.28,14.8,1,Sunny,1067.43
+24,2025-06-10,Salvador,Salvador,Truck 17,2200,264.93,60.73,299.93,10.0,1,Sunny,625.59
+25,2025-11-10,São Paulo,Recife,Truck 13,2070,561.76,43.73,217.48,8.6,1,Cloudy,822.97
+26,2025-01-22,Salvador,Recife,Truck 6,1350,791.27,179.67,34.26,8.2,1,Cloudy,1005.1999999999999
+27,2025-09-10,Porto Alegre,Salvador,Truck 17,900,749.21,69.5,155.5,11.0,1,Sunny,974.21
+28,2025-08-24,Curitiba,Curitiba,Truck 14,1360,852.06,60.25,176.2,13.2,1,Rainy,1088.51
+29,2025-12-11,São Paulo,Brasília,Truck 17,3100,901.96,174.28,52.26,9.7,1,Sunny,1128.5
+30,2025-02-18,Belo Horizonte,Belo Horizonte,Truck 8,1350,818.55,167.08,288.87,8.3,1,Rainy,1274.5
+31,2025-02-28,Belo Horizonte,Brasília,Truck 11,3120,737.27,100.7,52.67,11.7,1,Rainy,890.64
+32,2025-06-19,Rio de Janeiro,Salvador,Truck 20,2800,225.38,108.06,53.27,8.4,0,Sunny,386.71
+33,2025-07-07,Porto Alegre,Fortaleza,Truck 1,850,627.97,59.19,274.55,9.1,1,Sunny,961.71
+34,2025-09-28,Fortaleza,Belo Horizonte,Truck 7,1570,230.16,34.09,139.56,10.5,1,Cloudy,403.81
+35,2025-07-09,Porto Alegre,São Paulo,Truck 17,2660,846.45,123.22,18.96,7.0,1,Rainy,988.6300000000001
+36,2025-06-24,Curitiba,Brasília,Truck 10,2410,456.58,37.7,179.46,2.8,1,Cloudy,673.74
+37,2025-02-20,Salvador,Salvador,Truck 11,590,649.94,100.87,180.55,6.9,1,Cloudy,931.3600000000001
+38,2025-12-30,Belo Horizonte,Brasília,Truck 9,1370,423.56,189.29,19.35,9.9,1,Cloudy,632.2
+39,2025-02-24,Salvador,Belo Horizonte,Truck 9,0,826.0,191.51,291.76,9.8,1,Sunny,1309.27
+40,2025-09-01,Salvador,Porto Alegre,Truck 5,840,909.2,63.08,163.21,11.4,0,Sunny,1135.49
+41,2025-11-16,Salvador,Goiânia,Truck 17,0,518.91,132.34,167.94,7.0,1,Sunny,819.19
+42,2025-05-11,Belo Horizonte,Brasília,Truck 9,1015,890.34,105.33,156.03,12.0,1,Sunny,1151.7
+43,2025-11-03,Goiânia,São Paulo,Truck 17,710,413.66,177.62,183.22,8.5,1,Sunny,774.5
+44,2025-05-15,Brasília,São Paulo,Truck 19,1570,627.73,68.86,79.29,9.5,1,Rainy,775.88
+45,2025-01-21,Curitiba,Rio de Janeiro,Truck 7,900,887.01,20.67,86.17,10.3,0,Sunny,993.8499999999999
+46,2025-11-25,Goiânia,Brasília,Truck 9,2230,460.71,49.26,153.4,4.5,1,Sunny,663.37
+47,2025-06-16,Curitiba,Goiânia,Truck 7,850,963.23,82.91,242.01,5.5,1,Cloudy,1288.15
+48,2025-10-01,São Paulo,Curitiba,Truck 13,1570,297.5,76.83,14.96,5.4,1,Sunny,389.28999999999996
+49,2025-03-30,Porto Alegre,Recife,Truck 11,3100,214.62,162.45,181.02,10.7,1,Sunny,558.09
+50,2025-11-12,Porto Alegre,Goiânia,Truck 14,1570,923.31,142.5,242.03,7.2,1,Rainy,1307.84
+51,2025-01-14,Recife,Recife,Truck 19,410,254.92,73.92,47.08,13.1,1,Rainy,375.91999999999996
+52,2025-08-30,Porto Alegre,Recife,Truck 11,740,993.51,102.39,4.51,8.0,1,Sunny,1100.41
+53,2025-09-22,Belo Horizonte,Porto Alegre,Truck 13,2020,961.12,37.2,93.81,4.3,1,Sunny,1092.13
+54,2025-12-12,Fortaleza,Rio de Janeiro,Truck 14,2660,309.62,181.67,176.44,6.3,1,Rainy,667.73
+55,2025-02-22,Rio de Janeiro,Goiânia,Truck 13,1350,630.07,188.38,41.48,8.3,1,Sunny,859.9300000000001
+56,2025-12-06,Recife,Goiânia,Truck 1,1370,347.94,196.36,127.84,9.3,0,Sunny,672.14
+57,2025-04-02,Rio de Janeiro,Porto Alegre,Truck 8,840,542.52,176.34,165.7,5.5,1,Rainy,884.56
+58,2025-09-21,Curitiba,Brasília,Truck 12,1450,249.14,51.31,179.66,9.4,0,Sunny,480.11
+59,2025-02-04,Rio de Janeiro,Brasília,Truck 19,2800,379.14,28.32,82.32,10.1,0,Sunny,489.78
+60,2025-07-25,Rio de Janeiro,Brasília,Truck 12,3100,490.62,124.33,120.01,6.4,1,Sunny,734.96
+61,2025-03-22,Recife,Fortaleza,Truck 8,840,550.92,184.27,233.5,12.9,1,Cloudy,968.6899999999999
+62,2025-02-19,São Paulo,Recife,Truck 8,430,982.0,51.92,282.36,6.7,0,Cloudy,1316.2800000000002
+63,2025-12-26,Salvador,Fortaleza,Truck 13,1100,846.29,21.27,258.56,5.5,1,Sunny,1126.12
+64,2025-01-02,Porto Alegre,Rio de Janeiro,Truck 12,410,789.93,164.99,169.29,4.2,1,Sunny,1124.21
+65,2025-02-23,Porto Alegre,Porto Alegre,Truck 16,900,629.63,33.82,123.09,11.1,1,Sunny,786.5400000000001
+66,2025-04-16,Belo Horizonte,Goiânia,Truck 1,930,872.0,94.47,99.89,8.1,1,Sunny,1066.3600000000001
+67,2025-09-17,Recife,Recife,Truck 13,2800,471.46,142.2,37.49,6.8,1,Sunny,651.15
+68,2025-11-06,Belo Horizonte,Fortaleza,Truck 7,430,767.12,62.62,31.97,4.3,1,Rainy,861.71
+69,2025-07-10,Fortaleza,Fortaleza,Truck 5,2070,995.03,35.11,206.51,7.0,0,Sunny,1236.6499999999999
+70,2025-08-06,Fortaleza,Salvador,Truck 8,930,451.7,158.6,77.94,14.0,0,Sunny,688.24
+71,2025-02-13,Belo Horizonte,Fortaleza,Truck 14,590,739.21,133.43,76.4,2.6,0,Sunny,949.0400000000001
+72,2025-06-11,Recife,Curitiba,Truck 13,1400,875.45,197.93,299.46,6.4,1,Sunny,1372.8400000000001
+73,2025-07-21,Belo Horizonte,Goiânia,Truck 15,900,932.65,81.98,56.38,12.5,1,Sunny,1071.01
+74,2025-09-27,Porto Alegre,Curitiba,Truck 17,2200,774.35,31.12,44.42,11.1,1,Sunny,849.89
+75,2025-12-17,Goiânia,Goiânia,Truck 15,710,426.89,152.18,29.61,6.6,1,Rainy,608.68
+76,2025-10-31,Brasília,Porto Alegre,Truck 20,900,461.03,113.91,173.94,8.5,1,Rainy,748.8799999999999
+77,2025-09-28,Rio de Janeiro,Goiânia,Truck 18,210,216.61,58.38,188.36,9.2,1,Sunny,463.35
+78,2025-08-03,Brasília,Curitiba,Truck 18,800,808.71,160.71,109.57,8.3,1,Sunny,1078.99
+79,2025-09-09,Recife,Goiânia,Truck 2,2800,234.19,56.68,160.62,12.5,1,Sunny,451.49
+80,2025-07-09,Brasília,Porto Alegre,Truck 4,2660,891.72,66.92,236.52,8.8,0,Sunny,1195.16
+81,2025-10-23,Fortaleza,Porto Alegre,Truck 1,2230,294.93,36.66,245.43,10.8,0,Rainy,577.02
+82,2025-08-01,Curitiba,Rio de Janeiro,Truck 4,0,337.5,91.9,287.37,8.5,1,Sunny,716.77
+83,2025-07-27,Rio de Janeiro,Goiânia,Truck 18,2070,581.22,95.41,247.28,2.9,1,Rainy,923.91
+84,2025-08-25,Salvador,Salvador,Truck 5,2310,790.3,112.62,169.45,5.0,1,Rainy,1072.37
+85,2025-12-04,Recife,Brasília,Truck 19,1550,311.2,147.61,53.9,5.5,1,Cloudy,512.71
+86,2025-02-22,Rio de Janeiro,São Paulo,Truck 15,850,552.06,183.1,29.93,7.4,1,Cloudy,765.0899999999999
+87,2025-10-07,Brasília,Porto Alegre,Truck 8,2800,586.28,44.79,16.35,13.2,1,Sunny,647.42
+88,2025-08-05,Fortaleza,Belo Horizonte,Truck 20,710,369.83,29.78,199.96,8.9,1,Cloudy,599.57
+89,2025-09-09,São Paulo,Brasília,Truck 17,2100,292.45,23.34,242.26,7.7,1,Rainy,558.05
+90,2025-07-07,Goiânia,Recife,Truck 1,1640,869.14,45.85,152.61,11.1,1,Rainy,1067.6
+91,2025-02-10,Salvador,Goiânia,Truck 12,1550,601.97,138.43,16.41,4.4,1,Sunny,756.8100000000001
+92,2025-06-06,Goiânia,Curitiba,Truck 19,1400,211.5,150.95,160.64,6.8,1,Cloudy,523.0899999999999
+93,2025-01-15,Rio de Janeiro,São Paulo,Truck 15,1660,842.39,161.57,280.72,6.4,1,Sunny,1284.68
+94,2025-10-28,Fortaleza,Belo Horizonte,Truck 9,1360,984.64,63.87,179.28,9.0,1,Cloudy,1227.79
+95,2025-03-06,Fortaleza,Brasília,Truck 7,3120,684.74,75.06,242.83,10.2,1,Sunny,1002.63
+96,2025-12-11,Brasília,Goiânia,Truck 2,3100,602.97,106.96,240.05,9.2,1,Rainy,949.98
+97,2025-11-23,Porto Alegre,Rio de Janeiro,Truck 9,840,902.73,31.37,279.64,9.2,0,Sunny,1213.74
+98,2025-01-09,Brasília,Recife,Truck 10,930,962.01,130.01,231.07,7.1,1,Sunny,1323.09
+99,2025-12-10,Porto Alegre,São Paulo,Truck 2,2310,803.63,197.07,224.31,8.8,1,Sunny,1225.01
+100,2025-05-09,Porto Alegre,Salvador,Truck 19,2200,556.36,84.95,70.23,5.9,1,Sunny,711.5400000000001
+101,2025-05-16,Salvador,Rio de Janeiro,Truck 11,1660,673.78,155.51,17.98,9.7,1,Sunny,847.27
+102,2025-03-04,Brasília,Belo Horizonte,Truck 13,1700,760.75,110.01,155.28,6.7,1,Sunny,1026.04
+103,2025-05-19,São Paulo,São Paulo,Truck 10,0,355.42,43.01,37.33,5.2,1,Rainy,435.76
+104,2025-03-22,Belo Horizonte,Rio de Janeiro,Truck 14,1015,557.76,124.8,288.66,8.1,1,Cloudy,971.22
+105,2025-06-12,Belo Horizonte,Recife,Truck 18,1370,863.86,73.98,86.98,3.2,1,Rainy,1024.82
+106,2025-10-16,Brasília,Salvador,Truck 19,930,723.78,26.19,255.88,11.7,1,Sunny,1005.85
+107,2025-09-18,Brasília,Rio de Janeiro,Truck 9,1960,528.96,134.29,116.29,10.0,1,Sunny,779.54
+108,2025-08-19,Goiânia,Fortaleza,Truck 7,1400,730.69,174.61,96.96,8.8,1,Sunny,1002.2600000000001
+109,2025-02-10,Salvador,Salvador,Truck 3,2310,294.58,82.06,280.55,3.9,1,Cloudy,657.19
+110,2025-01-28,Brasília,Belo Horizonte,Truck 20,1360,521.2,90.25,109.0,6.2,0,Cloudy,720.45
+111,2025-05-15,Goiânia,Recife,Truck 6,0,834.5,180.38,117.09,8.1,0,Sunny,1131.97
+112,2025-07-20,Porto Alegre,Goiânia,Truck 2,3500,376.41,166.45,31.83,7.3,1,Sunny,574.69
+113,2025-11-24,Fortaleza,Curitiba,Truck 6,800,348.77,148.69,201.13,3.8,1,Cloudy,698.5899999999999
+114,2025-09-25,Fortaleza,Curitiba,Truck 3,2200,960.65,64.78,86.65,4.7,1,Cloudy,1112.0800000000002
+115,2025-02-02,Porto Alegre,Curitiba,Truck 16,1100,367.92,183.84,175.68,7.3,0,Cloudy,727.44
+116,2025-02-17,Recife,São Paulo,Truck 8,2200,408.73,47.79,177.41,4.8,1,Cloudy,633.9300000000001
+117,2025-03-03,Goiânia,Belo Horizonte,Truck 2,430,975.69,132.82,215.76,11.4,1,Sunny,1324.27
+118,2025-08-04,Goiânia,Recife,Truck 17,840,787.77,25.18,223.57,9.2,0,Sunny,1036.52
+119,2025-10-20,Porto Alegre,Salvador,Truck 9,2530,759.68,135.87,154.34,6.0,1,Sunny,1049.8899999999999
+120,2025-04-09,São Paulo,São Paulo,Truck 12,2200,882.34,69.89,99.3,10.9,1,Sunny,1051.53
+121,2025-06-21,Curitiba,Belo Horizonte,Truck 3,590,292.66,100.94,251.24,10.4,1,Sunny,644.84
+122,2025-12-26,Rio de Janeiro,Goiânia,Truck 11,3100,764.76,82.15,92.96,8.7,1,Sunny,939.87
+123,2025-08-02,Porto Alegre,Fortaleza,Truck 1,430,602.95,51.1,152.25,7.9,1,Sunny,806.3000000000001
+124,2025-02-04,Brasília,Recife,Truck 13,0,863.32,131.96,120.38,7.3,0,Sunny,1115.66
+125,2025-08-15,Brasília,Curitiba,Truck 15,2200,606.51,178.76,256.52,6.7,1,Sunny,1041.79
+126,2025-04-11,Salvador,Rio de Janeiro,Truck 5,1400,696.19,192.64,129.58,4.7,0,Sunny,1018.4100000000001
+127,2025-05-11,Porto Alegre,Recife,Truck 17,1450,582.19,54.62,115.83,11.8,1,Sunny,752.6400000000001
+128,2025-09-14,Salvador,Porto Alegre,Truck 6,1140,582.53,149.13,206.95,6.7,0,Cloudy,938.6099999999999
+129,2025-01-05,Porto Alegre,Belo Horizonte,Truck 11,210,814.38,139.58,180.73,8.1,1,Cloudy,1134.69
+130,2025-08-06,Goiânia,Brasília,Truck 18,2500,702.85,81.81,32.17,5.7,1,Sunny,816.83
+131,2025-09-12,Rio de Janeiro,Goiânia,Truck 4,2660,706.61,23.44,152.45,7.4,0,Sunny,882.5
+132,2025-12-25,Goiânia,Fortaleza,Truck 3,2070,560.23,144.16,220.64,15.1,1,Sunny,925.03
+133,2025-10-10,Curitiba,Goiânia,Truck 13,0,624.89,190.19,297.62,6.2,1,Rainy,1112.6999999999998
+134,2025-07-26,Fortaleza,Recife,Truck 9,2200,796.57,133.78,188.74,11.6,1,Sunny,1119.0900000000001
+135,2025-01-15,Belo Horizonte,Brasília,Truck 6,2530,860.75,98.35,111.09,7.9,1,Sunny,1070.19
+136,2025-12-12,Porto Alegre,Porto Alegre,Truck 12,740,757.25,114.53,67.85,9.7,0,Cloudy,939.63
+137,2025-02-11,Curitiba,Salvador,Truck 2,1360,939.26,55.93,261.85,11.1,1,Sunny,1257.04
+138,2025-06-28,Fortaleza,Rio de Janeiro,Truck 3,1450,856.26,155.1,244.37,8.7,1,Sunny,1255.73
+139,2025-03-04,Recife,Brasília,Truck 3,850,649.49,154.36,70.18,7.1,0,Sunny,874.03
+140,2025-12-18,Rio de Janeiro,Belo Horizonte,Truck 12,0,737.12,46.19,60.19,7.5,1,Sunny,843.5
+141,2025-08-19,Salvador,Curitiba,Truck 15,1100,941.05,178.04,214.54,7.6,1,Sunny,1333.6299999999999
+142,2025-08-29,Salvador,Porto Alegre,Truck 9,930,695.33,68.45,94.49,12.7,1,Cloudy,858.2700000000001
+143,2025-02-21,Goiânia,Rio de Janeiro,Truck 8,840,859.85,196.81,91.92,4.3,1,Sunny,1148.5800000000002
+144,2025-04-06,Brasília,Fortaleza,Truck 11,1360,751.05,88.92,45.69,3.6,1,Rainy,885.6599999999999
+145,2025-08-10,Fortaleza,Curitiba,Truck 16,840,641.55,52.02,79.19,3.7,1,Sunny,772.76
+146,2025-08-19,Recife,Recife,Truck 4,1660,393.47,83.31,128.25,5.8,0,Sunny,605.03
+147,2025-08-25,Curitiba,Brasília,Truck 1,2200,540.8,99.23,219.85,9.8,0,Sunny,859.88
+148,2025-05-23,Rio de Janeiro,Rio de Janeiro,Truck 7,2230,974.19,32.48,100.89,9.9,0,Sunny,1107.5600000000002
+149,2025-06-20,Fortaleza,São Paulo,Truck 2,1360,726.21,124.08,98.58,6.5,0,Sunny,948.8700000000001
+150,2025-01-29,Recife,Salvador,Truck 5,2660,651.52,127.57,85.47,7.9,0,Sunny,864.56
+151,2025-02-05,Belo Horizonte,Salvador,Truck 7,2310,946.37,153.01,143.49,5.2,1,Cloudy,1242.8700000000001
+152,2025-01-13,Porto Alegre,Porto Alegre,Truck 4,2500,669.21,25.25,54.19,5.4,1,Sunny,748.6500000000001
+153,2025-06-09,Salvador,Fortaleza,Truck 5,210,620.87,117.42,145.69,9.4,1,Sunny,883.98
+154,2025-11-23,Curitiba,Porto Alegre,Truck 1,2310,807.45,29.52,211.25,10.6,0,Sunny,1048.22
+155,2025-07-06,Salvador,São Paulo,Truck 1,1140,770.13,146.21,8.94,6.8,1,Sunny,925.2800000000001
+156,2025-08-31,Curitiba,Belo Horizonte,Truck 15,900,354.53,30.03,2.93,12.1,1,Sunny,387.48999999999995
+157,2025-03-27,Goiânia,Fortaleza,Truck 20,0,577.05,184.11,22.54,10.4,1,Sunny,783.6999999999999
+158,2025-10-11,Brasília,Goiânia,Truck 19,2070,578.01,146.37,160.7,12.0,1,Sunny,885.0799999999999
+159,2025-03-07,Curitiba,Belo Horizonte,Truck 10,850,502.58,111.33,256.34,7.2,1,Sunny,870.25
+160,2025-06-19,Salvador,Fortaleza,Truck 18,1640,613.83,99.47,1.47,11.8,1,Rainy,714.7700000000001
+161,2025-02-14,Goiânia,Fortaleza,Truck 3,1370,530.49,43.52,281.0,13.4,1,Sunny,855.01
+162,2025-03-03,Curitiba,São Paulo,Truck 11,2500,359.48,72.38,31.88,7.0,0,Sunny,463.74
+163,2025-05-14,Belo Horizonte,Recife,Truck 15,3120,529.89,176.41,252.6,7.6,1,Rainy,958.9
+164,2025-10-11,Brasília,São Paulo,Truck 11,740,257.82,182.8,144.86,5.6,1,Cloudy,585.48
+165,2025-01-28,Curitiba,Fortaleza,Truck 17,900,660.63,20.13,197.81,5.1,0,Rainy,878.5699999999999
+166,2025-04-18,Goiânia,Rio de Janeiro,Truck 17,2660,882.92,126.94,153.2,5.2,1,Sunny,1163.06
+167,2025-02-13,Fortaleza,Belo Horizonte,Truck 6,3120,780.23,149.47,143.11,6.0,1,Rainy,1072.81
+168,2025-12-06,São Paulo,São Paulo,Truck 5,710,488.32,131.37,250.47,8.7,1,Sunny,870.1600000000001
+169,2025-10-13,Recife,Recife,Truck 8,2800,269.66,34.7,226.77,6.1,0,Sunny,531.13
+170,2025-11-27,São Paulo,Brasília,Truck 2,840,361.72,59.19,145.02,8.6,1,Cloudy,565.9300000000001
+171,2025-05-08,São Paulo,Porto Alegre,Truck 16,1660,636.39,65.06,33.49,8.7,1,Sunny,734.94
+172,2025-12-14,Rio de Janeiro,Fortaleza,Truck 20,3700,365.65,169.71,34.62,6.8,1,Cloudy,569.98
+173,2025-08-19,Belo Horizonte,Goiânia,Truck 12,0,635.18,103.38,240.46,7.8,0,Rainy,979.02
+174,2025-07-09,Fortaleza,Brasília,Truck 6,0,385.28,107.63,158.82,6.7,1,Rainy,651.73
+175,2025-08-13,Porto Alegre,Salvador,Truck 1,1370,879.14,188.28,144.48,7.2,1,Rainy,1211.9
+176,2025-10-10,Curitiba,Curitiba,Truck 4,1360,517.82,134.68,204.17,6.0,1,Sunny,856.67
+177,2025-05-01,Recife,Recife,Truck 17,800,396.44,181.76,257.65,8.2,0,Sunny,835.85
+178,2025-04-26,Brasília,Goiânia,Truck 13,1570,849.86,102.17,188.66,6.5,1,Cloudy,1140.69
+179,2025-08-21,Fortaleza,Curitiba,Truck 18,1960,474.27,46.9,228.85,5.1,1,Rainy,750.02
+180,2025-09-16,Salvador,Recife,Truck 5,2320,289.19,187.39,229.58,9.5,0,Cloudy,706.16
+181,2025-12-25,Porto Alegre,Rio de Janeiro,Truck 3,1140,656.33,102.57,106.88,9.6,1,Cloudy,865.7800000000001
+182,2025-07-17,Rio de Janeiro,Porto Alegre,Truck 11,2320,665.25,52.69,82.22,10.8,1,Cloudy,800.1600000000001
+183,2025-05-17,Rio de Janeiro,Brasília,Truck 13,1640,771.76,74.43,240.35,5.4,1,Rainy,1086.54
+184,2025-11-14,Fortaleza,Belo Horizonte,Truck 4,2310,392.18,29.14,113.15,6.8,1,Sunny,534.47
+185,2025-06-14,Goiânia,Recife,Truck 14,3700,555.02,104.29,271.0,8.6,0,Sunny,930.31
+186,2025-08-13,São Paulo,Belo Horizonte,Truck 11,1960,425.89,173.56,20.91,6.7,1,Rainy,620.36
+187,2025-11-03,Salvador,Porto Alegre,Truck 10,930,264.76,188.04,17.47,9.4,1,Sunny,470.27
+188,2025-08-22,Rio de Janeiro,Fortaleza,Truck 19,3100,901.29,187.87,278.1,9.2,1,Sunny,1367.2599999999998
+189,2025-06-21,Recife,Salvador,Truck 18,2200,783.1,42.54,194.54,9.2,1,Sunny,1020.18
+190,2025-06-01,Rio de Janeiro,Brasília,Truck 6,590,441.17,88.77,113.88,11.6,1,Cloudy,643.82
+191,2025-11-11,Brasília,Porto Alegre,Truck 15,2410,679.5,25.08,226.52,9.6,1,Cloudy,931.1
+192,2025-06-09,Curitiba,Porto Alegre,Truck 10,4100,361.01,173.93,201.7,8.4,1,Rainy,736.6400000000001
+193,2025-04-06,Rio de Janeiro,Rio de Janeiro,Truck 5,430,912.19,84.58,159.36,7.5,1,Sunny,1156.13
+194,2025-08-21,Brasília,Curitiba,Truck 5,450,291.93,133.6,29.66,7.7,1,Rainy,455.19
+195,2025-06-29,Fortaleza,Salvador,Truck 10,900,203.07,148.68,243.65,5.3,1,Rainy,595.4
+196,2025-04-23,Fortaleza,Brasília,Truck 5,900,601.61,97.37,259.81,3.6,1,Sunny,958.79
+197,2025-11-14,Porto Alegre,Fortaleza,Truck 3,1350,666.5,75.16,51.65,9.2,0,Sunny,793.31
+198,2025-02-21,Rio de Janeiro,Fortaleza,Truck 6,2410,663.17,193.2,255.15,11.1,0,Sunny,1111.52
+199,2025-09-25,Recife,São Paulo,Truck 4,590,243.61,193.61,263.35,7.2,1,Sunny,700.57
+200,2025-10-22,Rio de Janeiro,Porto Alegre,Truck 18,1140,451.24,72.1,164.83,12.0,0,Rainy,688.1700000000001
+201,2025-04-23,Recife,Recife,Truck 9,0,599.36,106.33,196.85,7.6,0,Sunny,902.5400000000001
+202,2025-04-11,Belo Horizonte,Rio de Janeiro,Truck 17,3500,373.26,195.11,114.67,3.1,1,Cloudy,683.04
+203,2025-04-23,Porto Alegre,Salvador,Truck 13,210,898.1,20.88,84.54,10.3,0,Sunny,1003.52
+204,2025-03-22,Belo Horizonte,Fortaleza,Truck 15,800,269.69,94.28,216.59,6.8,1,Sunny,580.5600000000001
+205,2025-07-06,Rio de Janeiro,Brasília,Truck 20,3100,589.91,38.08,258.56,10.5,1,Sunny,886.55
+206,2025-04-23,Porto Alegre,São Paulo,Truck 17,2410,753.13,111.65,196.22,4.8,0,Sunny,1061.0
+207,2025-01-02,Belo Horizonte,Brasília,Truck 13,900,409.4,24.44,153.48,9.0,1,Sunny,587.3199999999999
+208,2025-05-10,São Paulo,Rio de Janeiro,Truck 16,4100,699.39,93.24,47.68,6.0,0,Sunny,840.31
+209,2025-08-08,Rio de Janeiro,Recife,Truck 4,1550,863.51,59.73,16.04,8.5,1,Sunny,939.28
+210,2025-02-23,Belo Horizonte,São Paulo,Truck 5,0,352.27,116.0,133.71,9.9,1,Sunny,601.98
+211,2025-12-09,São Paulo,São Paulo,Truck 5,0,933.78,199.28,14.8,9.3,0,Rainy,1147.86
+212,2025-08-12,São Paulo,Curitiba,Truck 9,2800,642.85,164.1,170.8,8.2,0,Sunny,977.75
+213,2025-08-13,Fortaleza,Salvador,Truck 17,1350,439.39,172.22,114.82,4.6,1,Sunny,726.4300000000001
+214,2025-05-06,Rio de Janeiro,São Paulo,Truck 13,1370,544.69,134.35,227.16,9.8,0,Rainy,906.2
+215,2025-05-10,São Paulo,Curitiba,Truck 2,2530,449.75,27.48,91.69,10.6,1,Sunny,568.9200000000001
+216,2025-02-22,Fortaleza,Curitiba,Truck 13,2410,780.09,57.22,177.89,5.4,1,Cloudy,1015.2
+217,2025-06-21,Belo Horizonte,Rio de Janeiro,Truck 19,710,837.04,186.51,161.31,5.8,1,Cloudy,1184.86
+218,2025-08-06,Brasília,Belo Horizonte,Truck 3,210,866.35,85.9,1.41,10.7,1,Sunny,953.66
+219,2025-06-09,Rio de Janeiro,Brasília,Truck 10,430,988.61,38.65,21.72,7.5,1,Cloudy,1048.98
+220,2025-07-17,Porto Alegre,Recife,Truck 2,410,833.03,146.43,87.11,5.8,1,Rainy,1066.57
+221,2025-09-04,Recife,Goiânia,Truck 13,0,681.11,73.9,264.67,8.7,0,Cloudy,1019.6800000000001
+222,2025-11-20,Recife,Brasília,Truck 19,900,471.38,68.39,44.1,6.4,1,Rainy,583.87
+223,2025-07-22,Belo Horizonte,São Paulo,Truck 17,3500,635.68,199.64,213.27,8.4,1,Sunny,1048.59
+224,2025-07-03,Goiânia,Recife,Truck 14,430,232.85,174.47,292.01,7.0,1,Cloudy,699.3299999999999
+225,2025-05-03,Goiânia,Fortaleza,Truck 12,1100,795.86,93.43,237.17,7.2,1,Sunny,1126.46
+226,2025-09-12,Belo Horizonte,Belo Horizonte,Truck 12,850,556.76,196.45,72.88,10.8,1,Sunny,826.09
+227,2025-10-21,São Paulo,Fortaleza,Truck 11,1660,216.02,137.02,272.51,2.0,1,Sunny,625.55
+228,2025-10-07,Rio de Janeiro,Fortaleza,Truck 7,3100,250.01,153.56,27.93,9.4,1,Sunny,431.5
+229,2025-11-21,Recife,Salvador,Truck 4,2230,509.97,25.67,140.44,10.4,1,Sunny,676.0799999999999
+230,2025-04-08,Recife,Brasília,Truck 19,1570,666.74,41.89,266.26,6.4,1,Rainy,974.89
+231,2025-07-17,São Paulo,Goiânia,Truck 1,430,571.36,133.96,192.38,10.3,0,Cloudy,897.7
+232,2025-08-28,Recife,Rio de Janeiro,Truck 3,2100,695.36,181.82,124.09,5.6,1,Sunny,1001.2700000000001
+233,2025-05-24,Porto Alegre,Goiânia,Truck 13,840,584.24,132.27,87.84,6.4,1,Cloudy,804.35
+234,2025-04-07,Rio de Janeiro,Fortaleza,Truck 15,930,729.36,44.12,112.53,6.1,1,Cloudy,886.01
+235,2025-07-20,Curitiba,São Paulo,Truck 2,0,375.3,40.84,152.68,10.4,1,Sunny,568.8199999999999
+236,2025-05-04,Recife,Belo Horizonte,Truck 11,0,290.27,171.95,95.71,3.6,1,Sunny,557.93
+237,2025-07-06,Belo Horizonte,Porto Alegre,Truck 4,2100,677.15,45.07,290.69,12.1,0,Cloudy,1012.9100000000001
+238,2025-11-22,Porto Alegre,Goiânia,Truck 19,2230,587.75,113.64,279.92,7.2,1,Rainy,981.31
+239,2025-12-15,Recife,Fortaleza,Truck 17,2800,221.49,26.68,261.2,9.5,1,Rainy,509.37
+240,2025-09-16,Porto Alegre,Belo Horizonte,Truck 3,2660,504.39,34.52,126.55,9.3,0,Rainy,665.4599999999999
+241,2025-05-28,Fortaleza,Recife,Truck 18,2500,284.9,141.02,207.39,8.4,0,Sunny,633.31
+242,2025-09-09,Curitiba,Brasília,Truck 8,430,625.09,144.05,270.85,6.5,1,Sunny,1039.9900000000002
+243,2025-12-12,Salvador,Curitiba,Truck 19,1640,516.62,81.46,255.13,11.1,1,Sunny,853.21
+244,2025-05-27,Belo Horizonte,Salvador,Truck 5,1140,690.52,58.81,124.3,6.7,1,Sunny,873.6299999999999
+245,2025-05-28,Belo Horizonte,Belo Horizonte,Truck 7,3100,844.48,166.47,33.72,6.2,1,Rainy,1044.67
+246,2025-12-18,Rio de Janeiro,São Paulo,Truck 8,1700,439.73,59.08,22.69,10.2,1,Cloudy,521.5
+247,2025-07-18,Porto Alegre,São Paulo,Truck 5,0,969.68,117.56,173.12,8.4,1,Sunny,1260.3600000000001
+248,2025-11-04,São Paulo,Belo Horizonte,Truck 17,0,628.51,194.28,192.79,11.4,1,Cloudy,1015.5799999999999
+249,2025-05-08,Belo Horizonte,São Paulo,Truck 5,2500,694.63,46.61,254.95,7.8,1,Sunny,996.19
+250,2025-02-08,Porto Alegre,Brasília,Truck 4,3120,744.54,189.36,87.75,6.4,1,Rainy,1021.65
+251,2025-12-04,Porto Alegre,São Paulo,Truck 19,710,733.39,52.92,50.24,8.7,1,Rainy,836.55
+252,2025-12-26,Brasília,Goiânia,Truck 2,1100,608.78,122.14,113.7,6.9,1,Cloudy,844.62
+253,2025-05-09,Brasília,Curitiba,Truck 11,2230,543.01,87.86,106.07,6.4,1,Rainy,736.94
+254,2025-09-24,Salvador,São Paulo,Truck 13,2800,243.03,193.69,39.74,10.1,1,Sunny,476.46000000000004
+255,2025-05-31,Fortaleza,Curitiba,Truck 15,710,217.67,69.24,201.68,12.6,1,Cloudy,488.59
+256,2025-10-25,Salvador,Fortaleza,Truck 12,0,486.37,91.94,152.61,7.4,1,Rainy,730.92
+257,2025-04-09,Recife,Rio de Janeiro,Truck 11,1360,466.93,196.91,216.34,5.6,1,Sunny,880.1800000000001
+258,2025-09-20,São Paulo,Brasília,Truck 7,740,510.16,116.56,105.81,7.6,1,Rainy,732.53
+259,2025-09-09,Recife,Rio de Janeiro,Truck 5,2530,310.69,110.47,97.71,9.3,1,Cloudy,518.87
+260,2025-05-24,Goiânia,Fortaleza,Truck 17,2200,790.53,66.4,141.77,8.6,1,Sunny,998.6999999999999
+261,2025-12-12,Recife,Brasília,Truck 20,710,885.57,146.25,263.22,11.0,1,Sunny,1295.0400000000002
+262,2025-04-22,Rio de Janeiro,Belo Horizonte,Truck 9,3100,950.97,22.59,12.08,9.7,1,Cloudy,985.6400000000001
+263,2025-03-01,Recife,Belo Horizonte,Truck 14,450,593.89,28.91,241.45,5.2,1,Rainy,864.25
+264,2025-01-02,Salvador,Curitiba,Truck 12,740,760.69,127.88,110.7,6.8,0,Sunny,999.2700000000001
+265,2025-10-31,Belo Horizonte,Fortaleza,Truck 6,1015,884.44,81.5,256.39,4.5,1,Sunny,1222.33
+266,2025-09-11,Belo Horizonte,Curitiba,Truck 17,410,534.63,191.6,240.66,10.9,0,Sunny,966.89
+267,2025-05-20,Brasília,Salvador,Truck 19,2530,447.53,182.57,104.63,3.0,0,Rainy,734.7299999999999
+268,2025-02-06,São Paulo,São Paulo,Truck 19,1370,949.38,148.47,208.16,4.8,1,Cloudy,1306.01
+269,2025-06-09,São Paulo,Porto Alegre,Truck 16,3100,612.54,167.27,47.89,6.7,1,Sunny,827.6999999999999
+270,2025-01-09,Rio de Janeiro,Salvador,Truck 12,3100,597.8,140.12,268.88,9.4,1,Sunny,1006.8
+271,2025-08-21,Salvador,São Paulo,Truck 12,1015,342.73,42.6,121.35,6.7,0,Sunny,506.68000000000006
+272,2025-04-09,Brasília,Brasília,Truck 20,1370,286.52,157.8,136.69,7.1,0,Rainy,581.01
+273,2025-05-27,Goiânia,Curitiba,Truck 6,1100,873.69,57.83,211.73,7.1,1,Sunny,1143.25
+274,2025-10-31,São Paulo,Brasília,Truck 4,1700,691.31,78.22,246.25,8.4,1,Sunny,1015.78
+275,2025-07-27,Belo Horizonte,Brasília,Truck 6,800,460.66,167.46,70.9,4.9,1,Sunny,699.02
+276,2025-05-11,Recife,São Paulo,Truck 11,0,353.39,116.57,198.41,5.6,1,Rainy,668.37
+277,2025-06-01,Recife,Fortaleza,Truck 1,850,644.4,174.79,117.6,12.2,1,Sunny,936.79
+278,2025-02-23,Brasília,São Paulo,Truck 15,3700,667.14,58.35,110.61,9.0,1,Sunny,836.1
+279,2025-04-30,Salvador,Recife,Truck 11,2100,365.59,129.4,207.01,9.9,1,Cloudy,702.0
+280,2025-06-10,Salvador,Belo Horizonte,Truck 19,1140,881.12,35.08,116.15,8.1,1,Sunny,1032.3500000000001
+281,2025-04-26,Fortaleza,Belo Horizonte,Truck 18,0,267.41,135.75,103.83,7.6,1,Sunny,506.99
+282,2025-03-16,Curitiba,Salvador,Truck 17,2800,484.87,157.26,250.77,9.1,1,Cloudy,892.9
+283,2025-04-23,São Paulo,Belo Horizonte,Truck 19,0,744.31,125.29,30.38,9.8,1,Sunny,899.9799999999999
+284,2025-04-14,Salvador,São Paulo,Truck 14,1960,419.3,67.92,202.77,10.1,1,Sunny,689.99
+285,2025-12-06,Belo Horizonte,Goiânia,Truck 18,2200,862.14,25.64,74.62,7.7,1,Sunny,962.4
+286,2025-09-11,Brasília,Curitiba,Truck 19,2100,791.89,41.5,4.65,10.4,1,Rainy,838.04
+287,2025-08-15,Goiânia,São Paulo,Truck 15,2230,831.22,132.01,50.03,2.0,0,Sunny,1013.26
+288,2025-04-22,Fortaleza,São Paulo,Truck 15,450,295.29,188.2,182.0,10.2,1,Cloudy,665.49
+289,2025-04-09,Porto Alegre,Porto Alegre,Truck 4,1370,312.44,57.18,212.74,6.9,1,Sunny,582.36
+290,2025-06-02,Rio de Janeiro,Curitiba,Truck 7,0,429.18,152.3,6.32,9.4,1,Sunny,587.8000000000001
+291,2025-12-15,Goiânia,Recife,Truck 13,2800,614.46,175.96,10.93,6.4,1,Rainy,801.35
+292,2025-12-04,Porto Alegre,Belo Horizonte,Truck 3,1700,798.41,113.76,270.76,4.7,0,Cloudy,1182.9299999999998
+293,2025-07-13,Recife,Curitiba,Truck 16,800,869.22,140.47,21.99,8.8,1,Sunny,1031.68
+294,2025-11-06,Rio de Janeiro,Belo Horizonte,Truck 9,2100,763.47,166.7,268.25,4.2,1,Cloudy,1198.42
+295,2025-06-12,São Paulo,Salvador,Truck 8,2020,942.88,66.92,68.45,7.0,0,Sunny,1078.25
+296,2025-07-27,Belo Horizonte,Curitiba,Truck 20,210,790.99,73.44,222.01,6.0,1,Sunny,1086.44
+297,2025-06-18,Rio de Janeiro,Belo Horizonte,Truck 13,590,445.01,20.11,92.92,7.6,1,Sunny,558.04
+298,2025-06-10,Curitiba,Recife,Truck 17,1640,412.07,193.36,257.63,10.0,1,Rainy,863.0600000000001
+299,2025-03-09,Porto Alegre,Rio de Janeiro,Truck 17,0,756.95,185.16,210.14,6.8,1,Sunny,1152.25
+300,2025-10-16,São Paulo,Brasília,Truck 17,3120,354.3,157.62,120.54,8.8,1,Sunny,632.46
+301,2025-10-04,Curitiba,Brasília,Truck 1,710,274.17,34.23,22.89,9.8,0,Sunny,331.29
+302,2025-10-31,Recife,Recife,Truck 8,3500,625.78,100.55,219.81,6.5,1,Sunny,946.1399999999999
+303,2025-05-15,Curitiba,Porto Alegre,Truck 19,1015,857.31,38.34,185.07,6.5,1,Cloudy,1080.72
+304,2025-07-14,Fortaleza,Rio de Janeiro,Truck 6,3100,281.1,22.87,0.87,11.4,0,Cloudy,304.84000000000003
+305,2025-05-08,Fortaleza,Salvador,Truck 3,0,833.51,130.91,2.83,7.8,1,Rainy,967.25
+306,2025-02-02,Brasília,Recife,Truck 5,2230,849.26,192.95,242.64,9.3,1,Sunny,1284.85
+307,2025-06-25,Goiânia,Brasília,Truck 13,2310,585.82,182.52,77.82,9.3,1,Sunny,846.1600000000001
+308,2025-01-22,Goiânia,Brasília,Truck 15,1640,245.85,145.42,190.84,5.0,1,Rainy,582.11
+309,2025-08-26,São Paulo,Brasília,Truck 14,2100,339.67,37.4,136.26,6.1,1,Cloudy,513.3299999999999
+310,2025-06-07,Recife,Fortaleza,Truck 16,2310,765.94,69.35,259.03,8.9,1,Sunny,1094.3200000000002
+311,2025-02-07,Salvador,Recife,Truck 18,2100,769.42,77.61,275.09,2.8,1,Cloudy,1122.12
+312,2025-08-18,Fortaleza,São Paulo,Truck 11,2800,918.68,157.37,299.04,7.5,1,Cloudy,1375.09
+313,2025-12-31,São Paulo,Salvador,Truck 3,1700,666.15,164.4,46.11,5.8,1,Cloudy,876.66
+314,2025-02-20,Salvador,Brasília,Truck 10,1400,299.29,89.32,258.89,10.8,1,Sunny,647.5
+315,2025-09-21,Goiânia,Belo Horizonte,Truck 10,900,297.13,95.22,79.81,8.9,1,Sunny,472.16
+316,2025-10-10,Brasília,Recife,Truck 16,2070,776.91,28.01,177.24,11.0,1,Sunny,982.16
+317,2025-01-27,Curitiba,Fortaleza,Truck 12,1360,347.03,72.04,151.73,7.9,1,Sunny,570.8
+318,2025-08-14,Fortaleza,Recife,Truck 2,2530,462.71,101.23,5.4,7.7,1,Sunny,569.3399999999999
+319,2025-10-04,São Paulo,Salvador,Truck 9,1350,589.77,41.06,279.83,7.2,0,Sunny,910.6599999999999
+320,2025-10-13,Rio de Janeiro,Fortaleza,Truck 3,1350,219.81,101.59,23.5,6.7,1,Rainy,344.9
+321,2025-04-07,Salvador,Salvador,Truck 15,840,399.06,173.57,206.47,14.7,1,Sunny,779.1
+322,2025-10-11,Curitiba,Recife,Truck 3,450,526.31,124.64,235.5,10.0,1,Sunny,886.4499999999999
+323,2025-11-13,Fortaleza,São Paulo,Truck 19,1640,423.71,34.21,238.59,5.3,1,Rainy,696.51
+324,2025-10-31,Goiânia,Salvador,Truck 18,930,309.1,54.5,40.65,14.6,1,Rainy,404.25
+325,2025-05-27,Recife,Fortaleza,Truck 8,0,782.41,105.42,134.27,7.0,0,Rainy,1022.0999999999999
+326,2025-01-04,Salvador,Fortaleza,Truck 17,2410,850.52,85.07,248.83,8.8,1,Sunny,1184.4199999999998
+327,2025-02-04,Goiânia,Salvador,Truck 8,3100,405.98,84.57,90.8,10.3,0,Rainy,581.35
+328,2025-07-11,Fortaleza,Goiânia,Truck 7,1370,819.54,115.27,140.32,4.2,0,Sunny,1075.1299999999999
+329,2025-02-18,Salvador,Recife,Truck 7,2800,508.44,125.19,81.84,5.9,1,Sunny,715.47
+330,2025-01-17,Curitiba,Goiânia,Truck 3,900,605.35,163.44,139.07,12.1,1,Rainy,907.8599999999999
+331,2025-06-21,Fortaleza,Porto Alegre,Truck 1,900,884.8,81.37,266.35,7.4,0,Sunny,1232.52
+332,2025-08-08,Porto Alegre,Recife,Truck 4,1400,799.96,164.98,136.54,10.5,0,Sunny,1101.48
+333,2025-06-07,São Paulo,Salvador,Truck 5,2020,844.09,80.95,166.77,6.9,1,Sunny,1091.8100000000002
+334,2025-02-15,Curitiba,Rio de Janeiro,Truck 1,2020,309.48,29.98,121.19,7.8,1,Sunny,460.65000000000003
+335,2025-01-06,Salvador,Salvador,Truck 15,0,255.78,119.75,138.04,12.5,0,Sunny,513.5699999999999
+336,2025-04-09,Recife,Goiânia,Truck 5,3700,914.72,125.82,4.55,9.1,1,Cloudy,1045.09
+337,2025-08-21,Goiânia,São Paulo,Truck 13,1015,510.27,188.22,85.12,7.1,1,Sunny,783.61
+338,2025-02-06,Rio de Janeiro,Salvador,Truck 8,900,430.3,150.69,130.97,6.3,1,Cloudy,711.96
+339,2025-10-07,Goiânia,Salvador,Truck 8,2800,779.76,185.2,190.14,6.5,1,Sunny,1155.1
+340,2025-12-15,Salvador,São Paulo,Truck 5,900,869.13,183.5,135.02,11.1,0,Sunny,1187.65
+341,2025-10-29,Goiânia,Salvador,Truck 9,3120,889.99,128.82,101.35,9.9,1,Sunny,1120.1599999999999
+342,2025-06-30,São Paulo,Brasília,Truck 1,410,452.8,115.0,116.43,5.1,1,Sunny,684.23
+343,2025-04-05,Fortaleza,Rio de Janeiro,Truck 4,2530,881.77,120.34,72.69,8.2,1,Rainy,1074.8
+344,2025-04-09,Rio de Janeiro,Belo Horizonte,Truck 3,210,232.75,196.1,277.35,7.8,1,Sunny,706.2
+345,2025-07-07,Belo Horizonte,Rio de Janeiro,Truck 2,840,239.73,159.17,156.52,8.8,1,Sunny,555.42
+346,2025-04-26,Salvador,Salvador,Truck 8,3120,698.82,39.13,4.02,6.5,0,Rainy,741.97
+347,2025-07-10,Brasília,Brasília,Truck 9,450,250.49,160.12,5.83,10.7,0,Sunny,416.44
+348,2025-09-10,Belo Horizonte,Recife,Truck 2,4100,459.69,50.7,291.89,8.0,0,Cloudy,802.28
+349,2025-06-10,Goiânia,Salvador,Truck 14,1360,738.2,100.52,66.44,8.9,1,Rainy,905.1600000000001
+350,2025-09-13,Salvador,Goiânia,Truck 14,1700,469.81,57.88,241.68,6.0,1,Sunny,769.3700000000001
+351,2025-11-19,Porto Alegre,Brasília,Truck 4,2410,343.68,144.12,17.48,6.2,1,Sunny,505.28000000000003
+352,2025-05-08,Brasília,São Paulo,Truck 6,900,425.08,177.92,276.35,14.6,0,Sunny,879.35
+353,2025-01-18,Rio de Janeiro,Brasília,Truck 11,450,566.06,72.27,262.33,12.5,1,Cloudy,900.6599999999999
+354,2025-10-08,Recife,São Paulo,Truck 3,1660,580.31,34.76,171.33,7.8,1,Sunny,786.4
+355,2025-08-11,Porto Alegre,Porto Alegre,Truck 8,2310,826.4,73.73,2.7,11.8,1,Sunny,902.83
+356,2025-02-23,Belo Horizonte,Belo Horizonte,Truck 3,1360,800.12,141.03,77.34,11.0,1,Sunny,1018.49
+357,2025-02-27,Fortaleza,Curitiba,Truck 14,2100,565.45,79.18,122.05,6.4,0,Sunny,766.6800000000001
+358,2025-11-19,São Paulo,Brasília,Truck 13,4100,876.53,70.06,138.02,6.2,1,Sunny,1084.61
+359,2025-12-26,Recife,Fortaleza,Truck 13,900,291.39,53.2,89.3,9.7,1,Cloudy,433.89
+360,2025-06-23,Porto Alegre,Goiânia,Truck 2,0,404.28,109.55,9.88,8.7,0,Sunny,523.7099999999999
+361,2025-10-07,Fortaleza,Salvador,Truck 13,1370,862.38,69.67,177.04,7.0,1,Cloudy,1109.09
+362,2025-04-24,Fortaleza,Goiânia,Truck 19,2100,502.4,151.58,157.25,9.8,1,Cloudy,811.23
+363,2025-10-15,Salvador,Rio de Janeiro,Truck 6,2310,984.95,33.79,84.9,4.4,1,Sunny,1103.64
+364,2025-12-08,Porto Alegre,Curitiba,Truck 16,2310,573.0,139.53,11.39,8.3,1,Sunny,723.92
+365,2025-05-31,Rio de Janeiro,Rio de Janeiro,Truck 2,0,833.55,62.76,298.38,4.9,0,Sunny,1194.69
+366,2025-05-07,Goiânia,Porto Alegre,Truck 8,1100,521.85,108.07,144.6,5.0,1,Rainy,774.5200000000001
+367,2025-06-04,Brasília,Curitiba,Truck 17,740,539.96,71.5,226.8,6.2,1,Sunny,838.26
+368,2025-09-30,Brasília,Curitiba,Truck 2,2410,506.31,150.1,135.69,8.9,0,Cloudy,792.0999999999999
+369,2025-04-14,Belo Horizonte,Rio de Janeiro,Truck 10,1450,775.26,190.16,12.95,6.3,1,Rainy,978.37
+370,2025-10-26,Belo Horizonte,São Paulo,Truck 16,2200,638.01,185.07,92.88,5.0,0,Sunny,915.9599999999999
+371,2025-09-03,Brasília,Rio de Janeiro,Truck 6,0,955.02,125.02,96.03,9.2,1,Rainy,1176.07
+372,2025-06-25,Rio de Janeiro,Goiânia,Truck 2,2230,400.71,103.27,251.51,11.7,0,Sunny,755.49
+373,2025-02-08,São Paulo,São Paulo,Truck 2,0,280.45,167.29,196.27,9.6,0,Cloudy,644.01
+374,2025-06-19,Curitiba,Goiânia,Truck 13,1370,514.61,143.0,82.63,12.5,1,Sunny,740.24
+375,2025-09-04,Goiânia,Porto Alegre,Truck 15,4100,693.37,53.04,290.32,11.5,0,Sunny,1036.73
+376,2025-01-26,São Paulo,Salvador,Truck 2,4100,888.64,167.77,96.46,6.8,1,Sunny,1152.8700000000001
+377,2025-12-21,Salvador,Recife,Truck 7,1450,476.96,97.2,299.47,9.6,0,Cloudy,873.63
+378,2025-11-02,Curitiba,São Paulo,Truck 3,2530,723.03,54.02,298.85,7.8,1,Sunny,1075.9
+379,2025-01-13,Curitiba,Porto Alegre,Truck 8,3100,480.16,70.72,57.36,10.7,0,Cloudy,608.24
+380,2025-11-12,Porto Alegre,Fortaleza,Truck 14,3700,693.78,68.15,93.82,7.8,0,Sunny,855.75
+381,2025-11-09,Rio de Janeiro,Porto Alegre,Truck 7,2660,907.85,113.46,145.81,6.0,1,Sunny,1167.1200000000001
+382,2025-02-05,Rio de Janeiro,Rio de Janeiro,Truck 7,2200,385.09,62.19,199.23,11.4,1,Sunny,646.51
+383,2025-06-22,Curitiba,Rio de Janeiro,Truck 1,0,523.39,42.24,158.41,8.8,1,Sunny,724.04
+384,2025-01-20,Porto Alegre,Recife,Truck 17,2230,994.61,42.26,290.83,6.3,1,Sunny,1327.7
+385,2025-11-17,Goiânia,Porto Alegre,Truck 9,4100,894.85,124.99,217.2,6.8,0,Sunny,1237.04
+386,2025-09-21,Curitiba,Belo Horizonte,Truck 13,1700,651.71,152.26,63.61,6.3,1,Rainy,867.58
+387,2025-05-22,Recife,Salvador,Truck 19,840,613.3,77.88,31.53,5.5,0,Sunny,722.7099999999999
+388,2025-05-23,Belo Horizonte,Rio de Janeiro,Truck 19,3100,427.68,26.24,206.52,6.8,0,Sunny,660.44
+389,2025-04-02,Belo Horizonte,Recife,Truck 17,1400,613.77,42.9,47.54,8.9,1,Sunny,704.2099999999999
+390,2025-12-20,São Paulo,Salvador,Truck 10,1100,878.55,184.65,236.3,8.2,1,Rainy,1299.5
+391,2025-11-18,Salvador,Porto Alegre,Truck 10,410,748.14,108.84,93.31,6.9,1,Sunny,950.29
+392,2025-10-15,Belo Horizonte,Porto Alegre,Truck 4,710,432.04,101.64,98.07,11.7,0,Sunny,631.75
+393,2025-08-03,Fortaleza,Curitiba,Truck 8,2800,361.17,26.85,3.24,3.0,1,Sunny,391.26000000000005
+394,2025-12-08,São Paulo,Recife,Truck 20,0,412.17,151.15,210.3,8.8,1,Rainy,773.6200000000001
+395,2025-02-20,Belo Horizonte,Rio de Janeiro,Truck 20,3500,335.81,115.05,33.98,7.6,1,Cloudy,484.84000000000003
+396,2025-06-02,Salvador,Belo Horizonte,Truck 18,0,276.51,56.37,231.86,5.6,0,Sunny,564.74
+397,2025-07-05,Rio de Janeiro,Porto Alegre,Truck 14,2410,535.31,39.81,147.56,8.9,1,Sunny,722.6799999999998
+398,2025-03-04,Rio de Janeiro,Belo Horizonte,Truck 18,740,290.64,89.01,235.28,7.5,1,Cloudy,614.93
+399,2025-07-09,Goiânia,Porto Alegre,Truck 14,450,337.53,170.69,175.18,11.1,1,Cloudy,683.4
+400,2025-05-05,Curitiba,Rio de Janeiro,Truck 20,2320,637.86,175.75,24.73,10.2,1,Rainy,838.34
+401,2025-05-30,Recife,Salvador,Truck 15,900,331.68,128.51,229.7,12.8,1,Cloudy,689.89
+402,2025-11-10,Rio de Janeiro,Brasília,Truck 4,2200,251.1,150.96,20.94,6.8,1,Rainy,423.0
+403,2025-02-27,Porto Alegre,Salvador,Truck 13,2500,453.91,40.73,143.61,11.5,1,Rainy,638.25
+404,2025-12-08,Belo Horizonte,Porto Alegre,Truck 8,2070,376.26,125.86,51.7,5.1,1,Sunny,553.82
+405,2025-11-01,Porto Alegre,Goiânia,Truck 18,800,612.24,140.05,225.7,7.7,0,Sunny,977.99
+406,2025-06-29,Salvador,Brasília,Truck 12,1960,281.89,56.13,273.48,6.8,0,Sunny,611.5
+407,2025-06-19,Rio de Janeiro,Brasília,Truck 14,1040,801.42,178.43,166.24,9.5,1,Cloudy,1146.09
+408,2025-11-22,Recife,Belo Horizonte,Truck 2,2410,924.99,55.1,158.14,9.4,1,Cloudy,1138.23
+409,2025-09-28,Salvador,Recife,Truck 18,3500,794.75,76.43,229.19,5.7,1,Rainy,1100.3700000000001
+410,2025-02-23,Fortaleza,Belo Horizonte,Truck 2,4100,626.26,131.7,1.52,9.6,0,Sunny,759.48
+411,2025-04-11,Fortaleza,Belo Horizonte,Truck 11,590,888.53,134.9,275.33,7.0,1,Sunny,1298.76
+412,2025-09-21,Porto Alegre,Goiânia,Truck 9,0,755.93,145.89,59.23,6.0,0,Sunny,961.05
+413,2025-02-22,Curitiba,Salvador,Truck 12,0,208.44,40.16,295.24,8.0,1,Sunny,543.84
+414,2025-03-01,São Paulo,Salvador,Truck 17,2070,515.27,172.9,220.88,4.3,1,Rainy,909.05
+415,2025-04-18,Curitiba,Fortaleza,Truck 15,1350,880.76,115.91,232.28,10.3,0,Cloudy,1228.95
+416,2025-01-05,Goiânia,Porto Alegre,Truck 17,0,476.69,104.84,196.86,7.9,0,Sunny,778.39
+417,2025-04-13,Curitiba,Goiânia,Truck 18,740,228.17,196.6,141.5,7.9,1,Sunny,566.27
+418,2025-07-15,Goiânia,Fortaleza,Truck 6,3100,796.94,153.27,171.49,7.8,1,Rainy,1121.7
+419,2025-09-19,Goiânia,Rio de Janeiro,Truck 17,2500,841.63,41.24,13.92,12.1,1,Sunny,896.79
+420,2025-12-31,Recife,Porto Alegre,Truck 18,900,328.47,156.18,187.19,11.8,1,Cloudy,671.84
+421,2025-12-16,Rio de Janeiro,Porto Alegre,Truck 8,2530,629.87,37.14,187.83,11.4,1,Sunny,854.84
+422,2025-02-16,Recife,Curitiba,Truck 9,1570,353.56,24.94,267.36,7.8,0,Sunny,645.86
+423,2025-12-21,Goiânia,Curitiba,Truck 6,1450,775.39,92.65,151.7,5.2,1,Sunny,1019.74
+424,2025-11-07,Salvador,São Paulo,Truck 5,2530,417.24,198.84,23.14,8.0,1,Sunny,639.22
+425,2025-11-04,Fortaleza,São Paulo,Truck 12,1015,452.97,51.48,91.86,8.8,1,Sunny,596.3100000000001
+426,2025-05-24,Goiânia,Belo Horizonte,Truck 11,0,875.98,141.08,196.69,10.0,1,Sunny,1213.75
+427,2025-09-26,Recife,Rio de Janeiro,Truck 1,3500,581.06,51.21,71.78,8.8,0,Sunny,704.05
+428,2025-05-04,Salvador,Brasília,Truck 11,2100,735.8,150.46,84.16,5.4,1,Sunny,970.42
+429,2025-04-16,Recife,Brasília,Truck 19,1040,521.9,110.96,246.14,6.7,1,Sunny,879.0
+430,2025-06-07,Curitiba,Curitiba,Truck 9,2310,438.41,142.39,175.3,6.4,1,Sunny,756.0999999999999
+431,2025-05-27,Belo Horizonte,Curitiba,Truck 2,3700,700.38,56.52,152.56,9.3,1,Sunny,909.46
+432,2025-05-25,Porto Alegre,Curitiba,Truck 12,3120,323.89,154.21,95.54,9.4,1,Rainy,573.64
+433,2025-04-30,São Paulo,Goiânia,Truck 4,2320,498.4,199.21,219.28,9.7,1,Cloudy,916.89
+434,2025-11-15,Recife,Recife,Truck 4,1960,367.23,139.82,86.32,8.8,1,Sunny,593.37
+435,2025-10-02,São Paulo,São Paulo,Truck 18,1640,756.64,108.83,221.12,2.9,1,Sunny,1086.5900000000001
+436,2025-04-02,Brasília,Goiânia,Truck 15,1040,955.37,186.17,21.03,3.7,1,Sunny,1162.57
+437,2025-02-27,Recife,Salvador,Truck 19,1660,996.41,22.85,259.36,7.6,1,Sunny,1278.62
+438,2025-12-12,Belo Horizonte,Brasília,Truck 13,930,560.22,151.39,149.87,8.2,1,Rainy,861.48
+439,2025-08-17,São Paulo,Porto Alegre,Truck 19,1360,402.02,179.97,131.55,11.1,0,Cloudy,713.54
+440,2025-04-27,Goiânia,São Paulo,Truck 17,800,554.26,31.1,183.31,8.2,0,Rainy,768.6700000000001
+441,2025-11-14,Recife,Fortaleza,Truck 6,430,877.82,101.01,187.26,5.6,1,Sunny,1166.0900000000001
+442,2025-10-06,Rio de Janeiro,Salvador,Truck 16,2410,364.8,56.85,39.61,9.7,1,Sunny,461.26000000000005
+443,2025-05-07,Porto Alegre,São Paulo,Truck 12,0,961.68,121.97,226.87,8.0,1,Cloudy,1310.52
+444,2025-05-09,Belo Horizonte,Goiânia,Truck 19,2800,473.49,136.92,82.78,7.0,1,Sunny,693.1899999999999
+445,2025-02-27,São Paulo,Rio de Janeiro,Truck 5,850,988.64,74.47,271.49,4.0,0,Sunny,1334.6
+446,2025-05-02,Belo Horizonte,Porto Alegre,Truck 17,1960,870.89,102.8,245.36,8.2,1,Cloudy,1219.05
+447,2025-01-01,Salvador,São Paulo,Truck 1,2660,846.86,70.28,103.88,8.6,1,Rainy,1021.02
+448,2025-08-27,Porto Alegre,Recife,Truck 10,2200,454.32,86.49,242.32,5.5,1,Rainy,783.1299999999999
+449,2025-10-17,Goiânia,Curitiba,Truck 15,430,207.02,48.72,106.92,9.9,0,Sunny,362.66
+450,2025-04-06,Recife,Curitiba,Truck 11,2020,505.71,179.4,30.28,9.6,0,Sunny,715.39
+451,2025-05-06,Recife,Porto Alegre,Truck 13,800,441.45,21.8,288.57,8.1,1,Sunny,751.8199999999999
+452,2025-04-28,Recife,Goiânia,Truck 5,1660,229.92,178.83,195.78,8.0,0,Rainy,604.53
+453,2025-02-17,Porto Alegre,Curitiba,Truck 1,1450,604.29,122.9,136.83,10.4,0,Sunny,864.02
+454,2025-03-30,Rio de Janeiro,São Paulo,Truck 12,2320,522.43,79.7,119.33,8.9,0,Cloudy,721.46
+455,2025-08-25,Brasília,Fortaleza,Truck 11,3100,707.65,150.15,97.41,6.2,1,Cloudy,955.2099999999999
+456,2025-09-29,Fortaleza,Brasília,Truck 17,410,696.95,111.4,294.43,7.5,1,Sunny,1102.78
+457,2025-07-08,Curitiba,Brasília,Truck 4,0,296.6,109.84,40.42,9.4,1,Sunny,446.86000000000007
+458,2025-07-11,São Paulo,Salvador,Truck 15,2530,981.57,39.83,94.44,2.9,1,Sunny,1115.8400000000001
+459,2025-03-10,Rio de Janeiro,Belo Horizonte,Truck 9,2230,349.55,90.11,145.65,5.7,1,Rainy,585.3100000000001
+460,2025-10-05,Goiânia,Rio de Janeiro,Truck 20,4100,556.22,63.39,143.4,9.7,0,Rainy,763.01
+461,2025-12-15,São Paulo,Porto Alegre,Truck 19,0,590.49,22.83,141.41,11.0,1,Rainy,754.73
+462,2025-09-04,Recife,Salvador,Truck 19,1140,850.45,84.82,52.74,10.6,1,Sunny,988.01
+463,2025-03-17,Belo Horizonte,Belo Horizonte,Truck 12,2660,279.38,36.17,43.48,10.2,1,Sunny,359.03000000000003
+464,2025-06-03,Goiânia,Goiânia,Truck 5,0,542.92,66.23,76.43,8.3,0,Rainy,685.5799999999999
+465,2025-05-24,São Paulo,Recife,Truck 10,850,702.8,36.65,274.36,5.4,0,Sunny,1013.81
+466,2025-03-27,Recife,Recife,Truck 17,1100,372.12,38.17,33.92,7.5,1,Rainy,444.21000000000004
+467,2025-07-04,São Paulo,Rio de Janeiro,Truck 5,2530,701.97,55.82,227.23,3.0,1,Rainy,985.0200000000001
+468,2025-10-12,Belo Horizonte,Curitiba,Truck 16,2200,938.93,199.97,227.26,11.3,0,Sunny,1366.1599999999999
+469,2025-08-08,Recife,São Paulo,Truck 7,1960,998.01,20.39,242.93,6.0,1,Sunny,1261.33
+470,2025-03-10,Brasília,Salvador,Truck 9,0,225.96,134.96,265.98,6.7,1,Sunny,626.9000000000001
+471,2025-02-16,Rio de Janeiro,Salvador,Truck 3,2660,388.47,45.42,78.91,10.6,1,Sunny,512.8000000000001
+472,2025-04-04,Salvador,Porto Alegre,Truck 15,210,448.25,185.71,67.37,4.0,1,Rainy,701.33
+473,2025-08-26,Curitiba,Porto Alegre,Truck 16,2660,519.3,36.85,139.65,5.0,0,Rainy,695.8
+474,2025-07-23,Porto Alegre,Recife,Truck 18,850,393.81,191.91,79.53,8.7,0,Cloudy,665.25
+475,2025-08-06,Curitiba,Recife,Truck 14,2100,362.79,129.97,220.29,9.3,0,Rainy,713.05
+476,2025-12-07,Goiânia,Fortaleza,Truck 3,4100,963.64,20.23,190.78,7.8,1,Sunny,1174.65
+477,2025-02-08,Curitiba,Fortaleza,Truck 12,3120,934.82,180.92,262.5,7.9,0,Sunny,1378.24
+478,2025-04-10,Recife,Curitiba,Truck 9,0,237.59,113.91,24.82,11.2,1,Cloudy,376.32
+479,2025-10-16,Brasília,Fortaleza,Truck 7,3120,471.05,67.28,274.53,9.6,0,Sunny,812.86
+480,2025-09-11,Salvador,São Paulo,Truck 9,900,524.12,158.11,88.0,9.3,1,Rainy,770.23
+481,2025-08-10,Rio de Janeiro,São Paulo,Truck 13,3100,391.21,186.8,147.21,9.9,1,Rainy,725.22
+482,2025-12-23,Rio de Janeiro,Salvador,Truck 18,2310,703.1,107.06,131.58,7.2,0,Sunny,941.7400000000001
+483,2025-01-23,Belo Horizonte,Brasília,Truck 5,430,712.3,76.8,228.09,13.4,0,Sunny,1017.1899999999999
+484,2025-09-07,Porto Alegre,São Paulo,Truck 13,1660,880.4,162.01,126.1,2.2,1,Sunny,1168.5099999999998
+485,2025-01-10,São Paulo,Belo Horizonte,Truck 4,1350,792.7,142.72,283.07,11.6,1,Cloudy,1218.49
+486,2025-09-03,Brasília,Recife,Truck 2,800,634.06,179.98,270.76,10.3,0,Sunny,1084.8
+487,2025-11-21,São Paulo,Porto Alegre,Truck 16,930,722.87,144.65,261.65,8.6,1,Cloudy,1129.17
+488,2025-04-10,Salvador,Fortaleza,Truck 9,2200,419.19,63.84,21.38,8.2,1,Sunny,504.40999999999997
+489,2025-10-17,Curitiba,Salvador,Truck 9,0,674.44,187.7,256.28,7.6,1,Cloudy,1118.42
+490,2025-06-29,Rio de Janeiro,Rio de Janeiro,Truck 6,2230,591.38,38.87,234.49,10.8,1,Sunny,864.74
+491,2025-08-11,Salvador,Porto Alegre,Truck 11,0,306.68,68.23,31.05,7.9,1,Sunny,405.96000000000004
+492,2025-09-07,Curitiba,Belo Horizonte,Truck 1,4100,394.04,113.64,32.22,6.2,1,Cloudy,539.9
+493,2025-05-27,Rio de Janeiro,Fortaleza,Truck 4,2530,433.35,121.83,30.35,10.3,1,Cloudy,585.5300000000001
+494,2025-04-06,Curitiba,Belo Horizonte,Truck 13,1450,939.45,22.76,3.4,12.0,1,Sunny,965.61
+495,2025-09-14,Porto Alegre,Recife,Truck 13,1100,384.31,160.5,164.59,3.2,0,Rainy,709.4
+496,2025-11-21,Brasília,Recife,Truck 13,3100,431.4,85.09,292.02,13.9,1,Cloudy,808.51
+497,2025-01-04,Goiânia,Curitiba,Truck 2,1570,495.48,93.16,131.61,5.4,1,Sunny,720.25
+498,2025-01-16,Salvador,Salvador,Truck 9,1350,730.99,165.69,162.23,5.6,1,Sunny,1058.91
+499,2025-10-07,Salvador,Porto Alegre,Truck 8,1140,294.59,88.27,290.39,4.9,0,Cloudy,673.25
+500,2025-12-02,Fortaleza,Goiânia,Truck 7,210,963.16,28.5,76.55,8.0,0,Sunny,1068.21
+501,2025-09-04,Recife,Goiânia,Truck 4,840,892.46,51.76,257.54,4.8,0,Sunny,1201.76
+502,2025-09-15,Porto Alegre,Porto Alegre,Truck 18,800,661.77,192.06,163.92,5.1,0,Rainy,1017.7499999999999
+503,2025-06-09,Porto Alegre,Rio de Janeiro,Truck 3,3700,739.23,32.67,170.84,6.3,1,Sunny,942.74
+504,2025-12-06,São Paulo,Salvador,Truck 6,2500,213.33,83.89,102.95,8.3,1,Sunny,400.17
+505,2025-06-01,Curitiba,Belo Horizonte,Truck 12,800,471.16,110.57,168.48,8.6,1,Cloudy,750.21
+506,2025-06-27,Recife,Rio de Janeiro,Truck 12,3100,836.53,108.79,21.94,11.1,0,Sunny,967.26
+507,2025-06-12,Brasília,Brasília,Truck 8,3100,261.99,20.71,229.39,11.0,0,Cloudy,512.0899999999999
+508,2025-02-02,Brasília,Porto Alegre,Truck 1,450,425.85,110.21,85.41,10.6,0,Cloudy,621.47
+509,2025-06-28,Porto Alegre,Belo Horizonte,Truck 4,1370,668.24,89.08,266.28,7.3,1,Sunny,1023.6
+510,2025-04-11,Brasília,Goiânia,Truck 11,1015,405.13,194.97,110.36,3.4,1,Sunny,710.46
+511,2025-09-25,Fortaleza,São Paulo,Truck 3,1450,947.18,48.65,42.85,3.3,0,Sunny,1038.6799999999998
+512,2025-11-19,Salvador,Curitiba,Truck 13,2310,304.85,83.75,208.76,10.5,0,Sunny,597.36
+513,2025-03-06,Belo Horizonte,Goiânia,Truck 17,1640,837.92,95.51,49.37,10.1,1,Rainy,982.8
+514,2025-06-17,Goiânia,Salvador,Truck 10,800,606.36,90.32,226.1,6.5,1,Rainy,922.7800000000001
+515,2025-11-26,São Paulo,Recife,Truck 12,410,800.26,139.85,290.43,4.4,1,Sunny,1230.54
+516,2025-02-12,Curitiba,São Paulo,Truck 15,1700,448.57,58.79,233.87,5.4,1,Sunny,741.23
+517,2025-02-13,Goiânia,Curitiba,Truck 10,840,611.59,59.79,6.73,8.4,0,Sunny,678.11
+518,2025-10-12,Curitiba,Curitiba,Truck 14,1015,885.47,151.26,179.97,8.4,1,Sunny,1216.7
+519,2025-01-12,Rio de Janeiro,Brasília,Truck 13,800,573.5,110.05,208.62,10.6,1,Sunny,892.17
+520,2025-04-05,Goiânia,Brasília,Truck 5,0,487.78,94.73,247.64,6.9,1,Sunny,830.15
+521,2025-10-29,Belo Horizonte,Fortaleza,Truck 6,2310,628.92,50.46,16.8,7.4,1,Rainy,696.18
+522,2025-09-10,Porto Alegre,Goiânia,Truck 2,0,773.89,53.75,144.03,10.8,0,Sunny,971.67
+523,2025-08-30,Fortaleza,Goiânia,Truck 17,1350,554.85,21.9,160.61,2.7,1,Sunny,737.36
+524,2025-02-04,Salvador,Goiânia,Truck 4,210,951.1,36.46,50.74,8.8,1,Rainy,1038.3
+525,2025-08-03,Salvador,Fortaleza,Truck 14,590,435.96,120.23,96.73,7.2,1,Sunny,652.92
+526,2025-12-03,Fortaleza,Rio de Janeiro,Truck 10,1015,580.37,180.54,132.07,9.8,1,Sunny,892.98
+527,2025-03-31,Recife,Curitiba,Truck 3,430,805.54,71.69,249.96,9.3,1,Sunny,1127.19
+528,2025-09-21,Rio de Janeiro,São Paulo,Truck 3,2660,751.3,78.99,278.82,6.3,1,Sunny,1109.11
+529,2025-04-03,Curitiba,Salvador,Truck 15,2230,890.91,40.81,188.53,6.7,1,Sunny,1120.25
+530,2025-03-31,Belo Horizonte,Curitiba,Truck 6,3120,997.45,89.95,118.48,2.2,0,Cloudy,1205.88
+531,2025-04-25,Brasília,Brasília,Truck 17,1015,541.49,26.7,76.21,9.9,1,Sunny,644.4000000000001
+532,2025-04-15,Goiânia,Belo Horizonte,Truck 12,3120,288.92,185.17,294.64,8.6,1,Cloudy,768.73
+533,2025-07-15,Rio de Janeiro,Recife,Truck 20,2410,224.33,141.16,294.91,11.5,0,Sunny,660.4000000000001
+534,2025-11-10,Goiânia,Fortaleza,Truck 11,710,781.5,198.33,277.49,7.0,1,Sunny,1257.3200000000002
+535,2025-04-24,Belo Horizonte,Porto Alegre,Truck 4,2310,899.21,178.91,235.7,10.3,1,Sunny,1313.8200000000002
+536,2025-03-16,São Paulo,Belo Horizonte,Truck 6,1360,376.57,105.14,97.73,5.3,1,Sunny,579.4399999999999
+537,2025-08-05,São Paulo,Salvador,Truck 1,0,326.76,113.54,245.1,2.0,1,Sunny,685.4
+538,2025-10-04,Rio de Janeiro,Goiânia,Truck 20,2100,249.76,54.3,122.64,7.8,1,Sunny,426.7
+539,2025-09-06,Porto Alegre,Brasília,Truck 16,2070,858.16,103.17,98.03,6.6,0,Sunny,1059.36
+540,2025-06-13,Belo Horizonte,Brasília,Truck 15,1370,449.11,182.55,223.46,5.4,0,Sunny,855.1200000000001
+541,2025-12-23,Belo Horizonte,Brasília,Truck 17,3100,521.36,29.15,23.9,10.2,1,Sunny,574.41
+542,2025-07-11,Fortaleza,Goiânia,Truck 8,1550,602.2,175.44,14.57,11.0,1,Sunny,792.2100000000002
+543,2025-08-15,Porto Alegre,Porto Alegre,Truck 12,710,871.56,81.37,134.39,8.3,1,Sunny,1087.32
+544,2025-06-26,Curitiba,Fortaleza,Truck 10,2230,720.67,181.91,133.69,7.5,0,Rainy,1036.27
+545,2025-04-09,Curitiba,Belo Horizonte,Truck 15,4100,692.05,189.36,268.69,8.2,1,Cloudy,1150.1
+546,2025-02-05,Brasília,Goiânia,Truck 9,840,340.54,140.76,37.85,6.4,0,Sunny,519.15
+547,2025-04-06,Salvador,Salvador,Truck 2,3700,610.55,139.6,36.99,9.4,1,Sunny,787.14
+548,2025-06-01,São Paulo,Fortaleza,Truck 5,3100,772.3,101.5,44.24,4.2,1,Sunny,918.04
+549,2025-05-31,Curitiba,Salvador,Truck 6,2230,978.61,170.4,8.92,5.3,1,Cloudy,1157.93
+550,2025-07-09,Porto Alegre,Fortaleza,Truck 7,1660,361.13,193.09,21.52,6.0,0,Sunny,575.74
+551,2025-08-12,Belo Horizonte,Porto Alegre,Truck 1,2310,207.63,159.51,197.96,9.4,0,Rainy,565.1
+552,2025-02-06,Curitiba,Recife,Truck 7,2320,260.24,131.95,129.48,7.2,1,Sunny,521.67
+553,2025-09-25,Belo Horizonte,Salvador,Truck 20,210,500.68,129.22,229.08,11.4,0,Sunny,858.98
+554,2025-07-02,Curitiba,Goiânia,Truck 12,2100,856.44,172.9,297.78,10.0,1,Sunny,1327.1200000000001
+555,2025-01-13,São Paulo,Fortaleza,Truck 16,1370,205.71,117.42,197.71,6.0,1,Sunny,520.84
+556,2025-10-06,Goiânia,Brasília,Truck 16,900,565.38,164.69,15.14,9.6,1,Cloudy,745.2099999999999
+557,2025-08-05,Curitiba,Curitiba,Truck 11,2410,463.38,111.6,31.37,7.0,1,Sunny,606.35
+558,2025-12-21,Porto Alegre,Brasília,Truck 4,740,241.99,31.24,264.3,9.2,1,Sunny,537.53
+559,2025-12-27,Curitiba,Rio de Janeiro,Truck 13,3120,560.19,89.11,158.25,10.1,0,Sunny,807.5500000000001
+560,2025-10-13,Salvador,Recife,Truck 7,0,403.8,100.0,247.45,10.8,1,Rainy,751.25
+561,2025-09-30,São Paulo,Recife,Truck 4,1700,481.51,45.49,256.98,8.5,1,Sunny,783.98
+562,2025-03-03,Porto Alegre,Brasília,Truck 15,1700,764.49,38.45,278.3,12.0,0,Sunny,1081.24
+563,2025-03-25,Fortaleza,Belo Horizonte,Truck 19,3700,617.24,116.38,284.95,9.1,1,Sunny,1018.5699999999999
+564,2025-08-05,Porto Alegre,Porto Alegre,Truck 9,4100,299.72,35.33,166.45,8.3,0,Sunny,501.5
+565,2025-12-08,Salvador,Salvador,Truck 11,2660,969.13,74.53,102.31,7.2,0,Rainy,1145.97
+566,2025-07-06,Goiânia,Goiânia,Truck 8,2310,708.73,154.03,288.56,6.4,0,Sunny,1151.32
+567,2025-01-19,São Paulo,Recife,Truck 1,1450,812.69,193.6,164.22,9.0,1,Sunny,1170.51
+568,2025-06-26,Fortaleza,Brasília,Truck 8,2200,263.37,149.22,19.28,8.3,1,Sunny,431.87
+569,2025-04-10,Salvador,Brasília,Truck 13,900,237.65,198.67,192.83,8.7,1,Cloudy,629.15
+570,2025-08-21,Salvador,Porto Alegre,Truck 4,3100,215.56,145.7,176.31,9.2,0,Sunny,537.5699999999999
+571,2025-03-17,Rio de Janeiro,Porto Alegre,Truck 8,1700,351.04,72.88,268.74,8.6,1,Sunny,692.6600000000001
+572,2025-09-22,São Paulo,São Paulo,Truck 3,1700,531.53,140.97,195.96,13.0,1,Cloudy,868.46
+573,2025-10-11,Porto Alegre,São Paulo,Truck 9,0,948.66,146.39,104.72,6.7,1,Sunny,1199.77
+574,2025-07-25,Belo Horizonte,Belo Horizonte,Truck 2,450,565.65,86.91,289.87,9.1,0,Cloudy,942.43
+575,2025-08-11,Goiânia,Belo Horizonte,Truck 2,850,432.2,23.19,240.49,7.4,0,Sunny,695.88
+576,2025-02-21,Belo Horizonte,Rio de Janeiro,Truck 13,840,649.55,146.58,189.13,2.0,0,Sunny,985.26
+577,2025-12-05,Porto Alegre,Belo Horizonte,Truck 15,1570,289.55,23.91,87.88,7.5,1,Rainy,401.34000000000003
+578,2025-05-24,Porto Alegre,Fortaleza,Truck 12,3100,687.6,133.61,112.06,5.7,1,Cloudy,933.27
+579,2025-03-10,São Paulo,Porto Alegre,Truck 4,0,654.75,49.45,200.99,7.8,1,Sunny,905.19
+580,2025-04-09,Porto Alegre,Goiânia,Truck 8,2410,833.59,121.81,21.59,7.9,1,Cloudy,976.9900000000001
+581,2025-01-25,Rio de Janeiro,Fortaleza,Truck 9,1960,989.35,110.7,77.0,9.0,1,Sunny,1177.05
+582,2025-02-22,Fortaleza,Salvador,Truck 5,710,400.7,22.43,214.17,6.7,1,Cloudy,637.3
+583,2025-05-31,Porto Alegre,Brasília,Truck 20,3120,607.73,85.32,144.01,7.0,1,Sunny,837.06
+584,2025-05-24,Belo Horizonte,Belo Horizonte,Truck 18,710,927.09,128.2,120.72,9.8,1,Sunny,1176.01
+585,2025-02-26,Porto Alegre,Brasília,Truck 11,2800,828.15,172.75,45.44,6.0,0,Cloudy,1046.34
+586,2025-02-08,Rio de Janeiro,Recife,Truck 15,2500,589.93,179.96,132.55,3.4,1,Cloudy,902.44
+587,2025-04-19,Curitiba,Rio de Janeiro,Truck 9,430,956.3,107.09,231.21,8.4,1,Sunny,1294.6
+588,2025-06-30,Curitiba,Recife,Truck 17,900,245.79,151.12,79.2,10.7,1,Sunny,476.10999999999996
+589,2025-02-11,Salvador,Rio de Janeiro,Truck 12,0,944.8,76.96,1.62,9.7,1,Sunny,1023.38
+590,2025-07-05,Goiânia,São Paulo,Truck 7,1550,240.41,81.59,200.55,8.4,1,Sunny,522.55
+591,2025-08-11,Brasília,Brasília,Truck 10,1350,637.84,55.0,291.79,11.1,1,Sunny,984.6300000000001
+592,2025-05-02,Fortaleza,Rio de Janeiro,Truck 10,3100,912.35,121.15,182.05,10.7,1,Sunny,1215.55
+593,2025-05-13,Recife,Curitiba,Truck 13,2660,410.18,76.62,35.98,7.2,1,Sunny,522.78
+594,2025-06-12,Salvador,Fortaleza,Truck 19,850,577.8,35.19,96.22,8.6,1,Rainy,709.21
+595,2025-08-03,Goiânia,Rio de Janeiro,Truck 11,850,459.46,143.3,260.29,8.7,0,Sunny,863.05
+596,2025-08-09,Curitiba,Rio de Janeiro,Truck 13,2230,961.72,147.4,69.77,7.8,1,Sunny,1178.89
+597,2025-08-23,Belo Horizonte,Fortaleza,Truck 8,1360,858.92,84.8,182.31,10.8,1,Sunny,1126.03
+598,2025-11-27,Recife,Brasília,Truck 8,210,767.2,33.81,120.8,7.6,1,Rainy,921.81
+599,2025-05-26,Goiânia,Brasília,Truck 4,2500,670.1,96.73,62.35,6.7,1,Sunny,829.1800000000001
+600,2025-08-27,Goiânia,Fortaleza,Truck 15,2660,856.47,99.62,244.02,2.0,1,Sunny,1200.1100000000001
+601,2025-03-17,Salvador,Recife,Truck 11,3500,513.81,140.36,222.85,6.0,1,Rainy,877.02
+602,2025-01-09,Recife,Curitiba,Truck 11,1400,558.04,76.77,198.48,4.7,1,Cloudy,833.29
+603,2025-03-15,São Paulo,Goiânia,Truck 1,1040,784.0,142.87,70.9,7.9,1,Rainy,997.77
+604,2025-09-10,Brasília,Salvador,Truck 17,2660,486.2,176.87,29.36,4.9,1,Cloudy,692.43
+605,2025-08-18,São Paulo,Curitiba,Truck 15,410,251.12,62.75,172.85,9.5,1,Rainy,486.72
+606,2025-01-07,Recife,Brasília,Truck 20,1040,259.47,196.21,166.1,10.8,1,Rainy,621.7800000000001
+607,2025-06-23,São Paulo,Goiânia,Truck 6,590,292.29,89.55,56.52,7.9,1,Sunny,438.36
+608,2025-05-21,Rio de Janeiro,São Paulo,Truck 15,3700,895.75,68.11,16.87,5.5,0,Sunny,980.73
+609,2025-06-17,Curitiba,Belo Horizonte,Truck 9,3100,577.78,95.87,24.21,8.7,1,Sunny,697.86
+610,2025-06-19,Rio de Janeiro,Rio de Janeiro,Truck 14,2020,770.31,36.99,297.83,12.7,0,Sunny,1105.1299999999999
+611,2025-10-10,Porto Alegre,Fortaleza,Truck 18,1360,514.33,42.63,235.08,12.0,1,Sunny,792.0400000000001
+612,2025-05-02,São Paulo,Fortaleza,Truck 17,1550,406.97,94.6,276.6,4.5,0,Sunny,778.1700000000001
+613,2025-07-13,Porto Alegre,Rio de Janeiro,Truck 18,1140,477.75,157.24,58.52,4.4,1,Rainy,693.51
+614,2025-01-05,Belo Horizonte,Belo Horizonte,Truck 5,850,835.35,182.06,288.17,3.8,1,Sunny,1305.5800000000002
+615,2025-01-29,Fortaleza,Salvador,Truck 20,1960,700.17,139.67,42.8,5.2,1,Sunny,882.6399999999999
+616,2025-06-14,Belo Horizonte,Belo Horizonte,Truck 20,2530,950.11,38.94,152.72,8.6,1,Cloudy,1141.77
+617,2025-12-05,Recife,Goiânia,Truck 9,900,743.76,140.96,248.91,6.6,1,Sunny,1133.63
+618,2025-05-16,Goiânia,Belo Horizonte,Truck 11,710,656.15,134.38,104.94,5.9,1,Sunny,895.47
+619,2025-12-31,Curitiba,Goiânia,Truck 1,2410,688.16,165.04,127.45,10.6,1,Sunny,980.65
+620,2025-11-17,São Paulo,Belo Horizonte,Truck 18,4100,953.9,168.54,38.46,9.3,1,Cloudy,1160.9
+621,2025-12-08,Salvador,Salvador,Truck 6,2100,830.56,176.28,36.88,3.7,1,Sunny,1043.72
+622,2025-05-25,Fortaleza,Salvador,Truck 2,840,219.23,94.54,185.87,10.5,1,Rainy,499.64
+623,2025-11-23,Brasília,Brasília,Truck 15,710,627.31,145.62,202.66,9.3,1,Sunny,975.5899999999999
+624,2025-08-05,Brasília,Rio de Janeiro,Truck 14,1360,750.67,68.29,233.2,9.3,1,Sunny,1052.1599999999999
+625,2025-10-28,Brasília,Salvador,Truck 5,0,798.96,199.88,167.0,6.6,1,Sunny,1165.8400000000001
+626,2025-05-12,São Paulo,Goiânia,Truck 6,3120,370.51,51.56,193.73,7.5,1,Rainy,615.8
+627,2025-10-19,Brasília,Salvador,Truck 6,1100,893.74,21.82,4.06,3.1,1,Cloudy,919.62
+628,2025-03-11,Rio de Janeiro,Brasília,Truck 18,1960,964.67,46.79,48.65,10.2,1,Rainy,1060.11
+629,2025-09-09,Fortaleza,Fortaleza,Truck 14,900,389.37,159.66,295.47,5.5,1,Rainy,844.5
+630,2025-10-02,Rio de Janeiro,Goiânia,Truck 10,2070,906.09,100.42,22.8,5.8,1,Sunny,1029.31
+631,2025-12-30,Goiânia,Brasília,Truck 14,3120,277.58,100.55,203.64,5.8,1,Rainy,581.77
+632,2025-07-01,Fortaleza,Recife,Truck 13,0,244.57,191.9,52.82,12.5,0,Sunny,489.29
+633,2025-06-16,Rio de Janeiro,Recife,Truck 3,3500,303.38,185.53,215.02,6.3,0,Rainy,703.93
+634,2025-04-01,Fortaleza,São Paulo,Truck 6,800,246.19,76.02,211.8,10.4,1,Sunny,534.01
+635,2025-07-21,Goiânia,Belo Horizonte,Truck 8,1700,876.01,57.63,70.26,7.9,1,Sunny,1003.9
+636,2025-12-12,Porto Alegre,Rio de Janeiro,Truck 12,2070,247.24,172.73,80.89,5.9,1,Sunny,500.86
+637,2025-01-19,São Paulo,Porto Alegre,Truck 13,3700,417.33,183.08,196.43,5.5,1,Sunny,796.8399999999999
+638,2025-02-08,São Paulo,Curitiba,Truck 11,2500,283.01,117.49,117.03,6.4,1,Sunny,517.53
+639,2025-05-06,Brasília,Brasília,Truck 12,2410,436.34,133.3,58.36,7.8,1,Rainy,628.0
+640,2025-06-22,Belo Horizonte,Fortaleza,Truck 1,2530,272.45,66.24,219.5,9.5,1,Sunny,558.19
+641,2025-05-21,Brasília,Curitiba,Truck 17,2230,734.4,164.14,46.24,6.8,1,Sunny,944.78
+642,2025-08-30,Recife,Fortaleza,Truck 16,1040,306.66,133.78,256.69,6.7,1,Rainy,697.1300000000001
+643,2025-08-08,Rio de Janeiro,Curitiba,Truck 11,0,881.48,110.63,154.4,5.8,0,Sunny,1146.51
+644,2025-05-06,Fortaleza,Brasília,Truck 13,1370,853.75,30.82,31.71,5.0,1,Rainy,916.2800000000001
+645,2025-02-27,Belo Horizonte,Porto Alegre,Truck 18,2100,210.93,184.87,208.22,4.8,1,Sunny,604.02
+646,2025-05-28,Goiânia,Curitiba,Truck 11,3500,916.58,130.78,155.75,10.5,1,Cloudy,1203.1100000000001
+647,2025-11-13,Recife,Brasília,Truck 12,3100,223.16,54.68,89.42,6.7,1,Sunny,367.26
+648,2025-12-27,Goiânia,Salvador,Truck 6,3100,391.72,129.15,126.76,6.9,1,Sunny,647.63
+649,2025-01-01,São Paulo,Porto Alegre,Truck 9,2410,225.91,141.94,89.5,6.3,0,Sunny,457.35
+650,2025-12-14,São Paulo,Goiânia,Truck 16,740,468.67,114.64,78.91,7.2,1,Sunny,662.22
+651,2025-07-09,Brasília,Fortaleza,Truck 4,2660,611.09,149.26,49.08,8.9,0,Cloudy,809.4300000000001
+652,2025-07-10,Rio de Janeiro,Recife,Truck 3,800,837.32,124.66,108.83,6.8,1,Sunny,1070.81
+653,2025-11-08,Belo Horizonte,Belo Horizonte,Truck 16,1140,470.39,190.6,75.3,8.5,1,Sunny,736.29
+654,2025-04-27,Curitiba,Recife,Truck 12,900,764.39,29.67,205.03,11.5,1,Sunny,999.0899999999999
+655,2025-05-14,Recife,Porto Alegre,Truck 11,1015,350.0,39.12,205.16,6.0,1,Cloudy,594.28
+656,2025-02-27,Recife,Goiânia,Truck 5,0,800.48,51.26,150.55,6.9,0,Sunny,1002.29
+657,2025-02-13,Brasília,Fortaleza,Truck 18,1450,388.8,144.23,233.38,9.6,1,Cloudy,766.41
+658,2025-06-22,São Paulo,Goiânia,Truck 19,210,314.84,136.21,252.4,11.7,0,Sunny,703.4499999999999
+659,2025-06-09,Brasília,Curitiba,Truck 6,450,348.33,180.57,173.93,4.9,1,Sunny,702.8299999999999
+660,2025-06-22,Fortaleza,Fortaleza,Truck 18,3120,345.65,151.92,185.68,3.7,1,Sunny,683.25
+661,2025-11-13,Belo Horizonte,Curitiba,Truck 6,740,610.29,111.5,84.87,8.0,1,Cloudy,806.66
+662,2025-10-30,Rio de Janeiro,Brasília,Truck 4,1550,875.84,198.53,268.46,7.7,0,Cloudy,1342.8300000000002
+663,2025-05-29,Porto Alegre,Porto Alegre,Truck 12,2800,263.68,67.9,7.26,9.8,1,Sunny,338.84000000000003
+664,2025-03-21,Salvador,Brasília,Truck 19,2320,765.57,169.97,104.58,9.4,1,Sunny,1040.1200000000001
+665,2025-08-01,Salvador,São Paulo,Truck 2,4100,723.48,96.82,216.54,7.9,0,Rainy,1036.84
+666,2025-07-22,Brasília,Goiânia,Truck 17,2410,898.02,136.77,24.03,10.6,1,Sunny,1058.82
+667,2025-09-09,Fortaleza,Curitiba,Truck 11,1700,395.32,150.91,54.95,6.3,0,Sunny,601.1800000000001
+668,2025-08-17,Belo Horizonte,Salvador,Truck 11,1100,560.09,134.08,176.79,8.5,0,Sunny,870.96
+669,2025-06-13,Curitiba,Brasília,Truck 16,0,940.66,45.29,168.0,5.0,1,Sunny,1153.9499999999998
+670,2025-08-15,Salvador,São Paulo,Truck 2,3700,727.99,99.73,221.68,7.9,1,Sunny,1049.4
+671,2025-05-27,Belo Horizonte,Rio de Janeiro,Truck 2,4100,511.01,121.06,243.78,4.3,1,Sunny,875.8499999999999
+672,2025-01-20,Rio de Janeiro,Recife,Truck 8,1660,305.13,172.83,38.57,5.2,1,Sunny,516.5300000000001
+673,2025-02-16,Goiânia,Fortaleza,Truck 13,2310,409.99,99.86,5.51,12.3,1,Cloudy,515.36
+674,2025-08-21,Fortaleza,São Paulo,Truck 10,3100,664.97,185.37,206.89,3.4,1,Sunny,1057.23
+675,2025-11-01,São Paulo,Porto Alegre,Truck 8,1640,774.53,99.27,90.42,7.5,1,Rainy,964.2199999999999
+676,2025-01-14,Belo Horizonte,Brasília,Truck 4,0,299.54,118.78,187.8,10.1,1,Sunny,606.1200000000001
+677,2025-05-23,Rio de Janeiro,Porto Alegre,Truck 15,3100,679.68,163.33,45.16,13.6,0,Rainy,888.17
+678,2025-01-01,Curitiba,Recife,Truck 1,430,640.28,124.95,140.71,8.4,0,Sunny,905.94
+679,2025-02-23,Porto Alegre,Salvador,Truck 11,0,611.16,192.84,151.33,8.6,1,Rainy,955.33
+680,2025-09-16,São Paulo,Goiânia,Truck 7,2660,752.1,138.86,175.52,8.1,1,Sunny,1066.48
+681,2025-05-24,Porto Alegre,Goiânia,Truck 17,450,869.96,114.09,153.95,10.6,0,Cloudy,1138.0
+682,2025-01-12,Curitiba,Porto Alegre,Truck 20,0,458.39,24.25,148.71,9.1,1,Sunny,631.35
+683,2025-11-26,Rio de Janeiro,Curitiba,Truck 18,2660,911.21,94.47,99.82,6.6,0,Sunny,1105.5
+684,2025-08-12,Salvador,Salvador,Truck 12,0,328.51,73.86,21.35,10.8,1,Cloudy,423.72
+685,2025-09-29,Porto Alegre,Goiânia,Truck 9,840,338.42,154.66,26.86,6.8,0,Sunny,519.94
+686,2025-12-24,São Paulo,Salvador,Truck 5,1640,413.42,57.49,130.13,4.0,1,Sunny,601.04
+687,2025-06-05,Brasília,São Paulo,Truck 10,840,295.62,56.94,106.74,4.0,1,Cloudy,459.3
+688,2025-01-08,Recife,Salvador,Truck 4,850,384.26,54.11,154.84,7.5,0,Sunny,593.21
+689,2025-05-02,Belo Horizonte,Belo Horizonte,Truck 5,3700,285.13,42.61,91.45,8.3,1,Sunny,419.19
+690,2025-12-14,Salvador,Recife,Truck 10,2070,857.4,75.98,206.37,10.4,1,Cloudy,1139.75
+691,2025-06-13,Porto Alegre,Goiânia,Truck 11,1015,311.18,179.47,259.19,9.6,1,Sunny,749.8399999999999
+692,2025-03-31,Goiânia,Salvador,Truck 10,710,797.84,159.49,89.66,8.2,0,Cloudy,1046.99
+693,2025-05-16,Belo Horizonte,Porto Alegre,Truck 8,740,238.33,152.35,57.9,10.5,1,Sunny,448.58
+694,2025-07-05,Brasília,Rio de Janeiro,Truck 2,2230,958.82,163.52,34.85,8.0,1,Rainy,1157.19
+695,2025-11-12,Curitiba,Belo Horizonte,Truck 8,1370,768.93,68.5,184.88,4.8,1,Sunny,1022.31
+696,2025-06-27,Recife,Belo Horizonte,Truck 16,2310,205.44,179.74,133.16,4.2,0,Cloudy,518.34
+697,2025-01-28,Rio de Janeiro,Curitiba,Truck 5,2100,811.09,44.71,56.4,11.2,1,Sunny,912.2
+698,2025-08-08,Brasília,Salvador,Truck 3,430,611.27,80.54,195.94,2.4,1,Sunny,887.75
+699,2025-12-23,Brasília,Curitiba,Truck 12,1360,823.49,125.61,44.54,7.5,1,Rainy,993.64
+700,2025-02-10,Curitiba,Curitiba,Truck 13,2200,618.0,38.52,166.29,15.5,1,Sunny,822.81
+701,2025-08-16,Fortaleza,Rio de Janeiro,Truck 13,0,712.82,151.42,158.14,9.1,1,Rainy,1022.38
+702,2025-07-11,Curitiba,São Paulo,Truck 10,1400,829.07,89.7,220.27,7.5,1,Cloudy,1139.0400000000002
+703,2025-05-25,Fortaleza,Salvador,Truck 4,850,524.09,161.19,16.53,3.8,1,Sunny,701.81
+704,2025-07-20,Fortaleza,Brasília,Truck 9,1370,202.17,108.72,266.36,12.0,1,Rainy,577.25
+705,2025-07-31,Salvador,Goiânia,Truck 2,930,879.96,52.56,210.9,11.0,1,Sunny,1143.42
+706,2025-08-08,Salvador,Curitiba,Truck 19,710,504.71,152.26,64.84,9.7,1,Sunny,721.8100000000001
+707,2025-08-28,São Paulo,Recife,Truck 1,0,596.83,65.39,55.02,8.0,1,Sunny,717.24
+708,2025-02-15,Porto Alegre,Fortaleza,Truck 7,3100,206.21,108.35,129.5,9.4,1,Rainy,444.06
+709,2025-02-04,Porto Alegre,Recife,Truck 17,1360,593.67,33.6,245.27,7.6,1,Sunny,872.54
+710,2025-09-10,Rio de Janeiro,Rio de Janeiro,Truck 3,3100,989.19,131.22,252.88,5.6,1,Rainy,1373.29
+711,2025-03-23,Porto Alegre,Rio de Janeiro,Truck 20,4100,422.61,139.85,156.14,10.4,1,Sunny,718.6
+712,2025-09-13,Salvador,Porto Alegre,Truck 20,1640,516.33,88.16,258.24,7.9,1,Rainy,862.73
+713,2025-07-16,São Paulo,São Paulo,Truck 3,1550,749.75,191.8,1.63,9.3,1,Sunny,943.18
+714,2025-10-30,São Paulo,Goiânia,Truck 3,1570,851.83,177.35,10.55,7.7,1,Cloudy,1039.73
+715,2025-01-10,Fortaleza,Curitiba,Truck 17,590,533.91,147.43,273.55,9.2,1,Sunny,954.8899999999999
+716,2025-11-08,Curitiba,Recife,Truck 7,3100,447.74,148.46,232.6,8.0,1,Sunny,828.8000000000001
+717,2025-10-13,Rio de Janeiro,Fortaleza,Truck 14,1350,950.26,65.43,135.21,7.8,1,Sunny,1150.9
+718,2025-08-30,Fortaleza,Rio de Janeiro,Truck 17,430,741.72,138.23,226.08,8.1,1,Rainy,1106.03
+719,2025-09-08,Curitiba,Rio de Janeiro,Truck 18,1570,295.22,55.68,286.69,15.4,1,Sunny,637.59
+720,2025-12-31,Porto Alegre,São Paulo,Truck 13,1400,255.14,45.92,231.63,10.0,1,Rainy,532.69
+721,2025-01-05,Fortaleza,Fortaleza,Truck 20,2500,586.84,199.9,252.71,14.5,1,Sunny,1039.45
+722,2025-04-29,Belo Horizonte,Fortaleza,Truck 20,4100,376.07,132.03,228.18,8.0,1,Rainy,736.28
+723,2025-10-16,Porto Alegre,São Paulo,Truck 18,800,403.19,97.58,50.46,7.2,0,Sunny,551.23
+724,2025-03-06,Curitiba,Rio de Janeiro,Truck 4,1100,902.15,71.87,250.07,5.3,0,Sunny,1224.09
+725,2025-05-26,Rio de Janeiro,Goiânia,Truck 1,4100,271.65,128.71,58.53,12.0,0,Sunny,458.89
+726,2025-08-12,Curitiba,Salvador,Truck 18,2530,772.29,28.93,267.78,5.7,1,Sunny,1069.0
+727,2025-08-27,Fortaleza,Salvador,Truck 1,2660,416.91,37.04,137.59,12.5,1,Sunny,591.5400000000001
+728,2025-06-26,Fortaleza,São Paulo,Truck 13,1400,808.26,25.91,203.09,5.5,0,Cloudy,1037.26
+729,2025-09-24,Brasília,Fortaleza,Truck 20,1370,777.93,109.85,149.17,10.2,1,Cloudy,1036.95
+730,2025-12-07,Rio de Janeiro,Curitiba,Truck 20,450,205.91,128.11,28.2,4.0,1,Rainy,362.21999999999997
+731,2025-10-09,Goiânia,São Paulo,Truck 10,4100,607.31,31.25,87.22,6.9,1,Sunny,725.78
+732,2025-03-04,Porto Alegre,Goiânia,Truck 11,1700,311.46,149.82,295.12,8.1,1,Sunny,756.4
+733,2025-08-05,São Paulo,São Paulo,Truck 9,410,892.98,61.47,288.21,6.5,1,Rainy,1242.66
+734,2025-12-08,Rio de Janeiro,Belo Horizonte,Truck 9,0,897.27,143.34,96.15,7.6,0,Sunny,1136.76
+735,2025-11-11,São Paulo,Recife,Truck 5,740,534.68,196.74,298.89,7.6,1,Cloudy,1030.31
+736,2025-10-10,Rio de Janeiro,Fortaleza,Truck 1,1700,555.52,144.4,253.67,10.0,1,Sunny,953.5899999999999
+737,2025-06-26,Rio de Janeiro,Porto Alegre,Truck 17,1700,442.63,178.97,183.29,2.8,1,Cloudy,804.89
+738,2025-04-08,Curitiba,Porto Alegre,Truck 2,0,773.29,190.68,12.04,6.6,1,Sunny,976.01
+739,2025-04-15,Rio de Janeiro,Fortaleza,Truck 13,1450,486.93,107.62,270.43,11.1,1,Rainy,864.98
+740,2025-04-09,Brasília,Goiânia,Truck 9,1040,414.23,146.42,167.23,9.4,0,Sunny,727.88
+741,2025-11-07,Goiânia,Belo Horizonte,Truck 4,430,545.78,173.35,260.54,11.2,1,Cloudy,979.6700000000001
+742,2025-01-06,Fortaleza,Belo Horizonte,Truck 5,1100,273.19,84.19,250.33,9.9,1,Sunny,607.71
+743,2025-07-16,Recife,Rio de Janeiro,Truck 11,1040,797.28,67.05,249.9,5.3,1,Rainy,1114.23
+744,2025-12-17,São Paulo,Recife,Truck 19,2660,210.08,190.39,209.45,9.7,1,Cloudy,609.9200000000001
+745,2025-05-13,Fortaleza,Salvador,Truck 3,450,715.59,150.73,87.42,8.3,0,Sunny,953.74
+746,2025-12-24,Recife,Brasília,Truck 12,800,346.29,59.54,100.85,13.7,1,Sunny,506.68000000000006
+747,2025-09-16,Goiânia,Goiânia,Truck 19,0,385.92,100.84,92.54,10.0,0,Sunny,579.3
+748,2025-01-23,Goiânia,Brasília,Truck 19,710,708.51,163.36,6.01,9.3,1,Sunny,877.88
+749,2025-02-22,São Paulo,Brasília,Truck 13,0,994.35,118.47,174.77,9.7,0,Sunny,1287.59
+750,2025-06-14,São Paulo,Fortaleza,Truck 7,590,822.17,136.99,209.65,9.2,1,Sunny,1168.81
+751,2025-07-21,Goiânia,Porto Alegre,Truck 15,3500,380.67,155.68,256.16,9.1,0,Sunny,792.51
+752,2025-03-24,Recife,Porto Alegre,Truck 7,2320,340.82,131.96,42.05,7.3,0,Rainy,514.8299999999999
+753,2025-05-25,Rio de Janeiro,Salvador,Truck 8,1660,892.99,117.21,163.25,9.3,1,Rainy,1173.45
+754,2025-03-26,Porto Alegre,Fortaleza,Truck 5,0,555.35,154.93,2.4,10.4,1,Sunny,712.68
+755,2025-03-19,Belo Horizonte,Brasília,Truck 14,1140,309.64,150.96,28.53,10.7,0,Cloudy,489.13
+756,2025-01-01,Fortaleza,Curitiba,Truck 4,1015,889.77,133.38,16.26,10.3,0,Cloudy,1039.41
+757,2025-02-20,Curitiba,Porto Alegre,Truck 10,4100,852.87,84.76,217.64,11.8,0,Sunny,1155.27
+758,2025-06-22,Fortaleza,Goiânia,Truck 20,2310,987.13,93.05,24.32,10.8,1,Sunny,1104.5
+759,2025-07-24,Curitiba,Goiânia,Truck 15,430,927.79,194.68,214.94,9.6,1,Sunny,1337.41
+760,2025-09-17,Recife,Rio de Janeiro,Truck 18,1015,881.43,40.23,74.89,5.1,0,Rainy,996.55
+761,2025-10-15,Curitiba,São Paulo,Truck 20,1570,242.06,68.33,263.31,5.1,1,Rainy,573.7
+762,2025-02-03,São Paulo,Curitiba,Truck 13,2200,283.53,108.63,243.94,7.4,1,Sunny,636.0999999999999
+763,2025-12-14,Porto Alegre,Porto Alegre,Truck 8,1660,655.19,170.61,287.35,8.1,1,Rainy,1113.15
+764,2025-04-05,Porto Alegre,Belo Horizonte,Truck 9,1350,625.18,49.46,265.13,11.5,1,Sunny,939.77
+765,2025-03-13,São Paulo,Porto Alegre,Truck 16,3500,566.37,69.85,280.0,2.0,1,Sunny,916.22
+766,2025-02-08,Brasília,Rio de Janeiro,Truck 19,1360,517.43,31.84,257.62,5.4,0,Rainy,806.89
+767,2025-06-03,Recife,Goiânia,Truck 16,0,544.97,147.08,208.01,7.5,0,Rainy,900.0600000000001
+768,2025-09-07,Brasília,Brasília,Truck 7,900,655.44,62.88,51.08,5.5,1,Sunny,769.4000000000001
+769,2025-06-11,Brasília,Belo Horizonte,Truck 14,0,201.66,89.96,81.51,6.0,1,Sunny,373.13
+770,2025-04-28,Fortaleza,Fortaleza,Truck 14,1040,408.57,99.87,63.82,6.8,1,Cloudy,572.26
+771,2025-09-16,Goiânia,Recife,Truck 4,2020,614.62,180.44,181.08,5.6,1,Sunny,976.14
+772,2025-11-02,Fortaleza,Brasília,Truck 15,1100,777.77,94.04,151.09,6.1,1,Rainy,1022.9
+773,2025-09-25,Goiânia,Recife,Truck 3,1550,339.33,46.14,260.12,11.4,1,Sunny,645.5899999999999
+774,2025-02-23,Belo Horizonte,Curitiba,Truck 5,210,637.5,114.38,285.8,9.5,1,Sunny,1037.68
+775,2025-08-24,Curitiba,São Paulo,Truck 1,410,771.57,193.33,121.46,9.9,1,Sunny,1086.3600000000001
+776,2025-08-10,Goiânia,Belo Horizonte,Truck 3,2020,555.7,129.38,151.91,7.9,0,Sunny,836.99
+777,2025-09-08,São Paulo,Salvador,Truck 15,1550,221.66,197.01,291.45,10.5,1,Rainy,710.1199999999999
+778,2025-11-09,Fortaleza,Belo Horizonte,Truck 8,710,559.41,171.4,82.87,10.1,1,Sunny,813.68
+779,2025-04-22,Recife,Porto Alegre,Truck 4,710,437.16,26.47,237.72,9.5,0,Sunny,701.35
+780,2025-09-12,Curitiba,Goiânia,Truck 2,930,943.72,138.51,67.57,6.4,0,Sunny,1149.8
+781,2025-10-30,Belo Horizonte,Porto Alegre,Truck 10,0,299.69,71.62,204.44,6.9,1,Sunny,575.75
+782,2025-07-26,Goiânia,Porto Alegre,Truck 4,2800,721.98,120.73,76.08,10.6,1,Cloudy,918.7900000000001
+783,2025-08-17,Belo Horizonte,Curitiba,Truck 3,1040,242.18,70.28,265.12,6.7,1,Rainy,577.58
+784,2025-12-07,Recife,Brasília,Truck 2,710,556.94,82.8,168.44,4.8,0,Sunny,808.1800000000001
+785,2025-03-07,Brasília,Salvador,Truck 17,2020,643.18,186.17,55.78,6.7,1,Rainy,885.1299999999999
+786,2025-03-16,Porto Alegre,Salvador,Truck 20,840,438.36,57.2,67.31,11.9,1,Rainy,562.87
+787,2025-04-13,Recife,Porto Alegre,Truck 13,3100,564.06,177.34,148.15,6.7,1,Rainy,889.55
+788,2025-07-11,Salvador,Recife,Truck 5,1960,330.84,25.48,288.48,8.8,1,Sunny,644.8
+789,2025-09-09,Recife,Curitiba,Truck 9,740,443.3,36.36,230.89,6.5,1,Sunny,710.55
+790,2025-08-14,Belo Horizonte,Porto Alegre,Truck 6,930,696.89,173.84,146.49,9.9,1,Sunny,1017.22
+791,2025-10-21,São Paulo,São Paulo,Truck 5,1100,441.44,133.5,101.32,9.3,1,Cloudy,676.26
+792,2025-11-02,Fortaleza,Goiânia,Truck 10,2200,919.79,154.5,164.78,4.3,1,Rainy,1239.07
+793,2025-04-08,São Paulo,Brasília,Truck 8,0,702.73,57.7,224.51,8.7,1,Sunny,984.94
+794,2025-12-04,Belo Horizonte,Fortaleza,Truck 7,1570,550.92,116.68,235.18,3.8,1,Sunny,902.78
+795,2025-10-13,Fortaleza,São Paulo,Truck 7,1570,231.01,152.7,97.38,6.6,1,Sunny,481.09
+796,2025-12-01,Salvador,Recife,Truck 6,2020,599.64,132.92,216.35,8.0,1,Sunny,948.91
+797,2025-12-13,Porto Alegre,Belo Horizonte,Truck 20,1700,811.82,104.91,197.34,12.6,0,Cloudy,1114.07
+798,2025-11-04,Curitiba,Belo Horizonte,Truck 3,1570,412.45,192.76,287.73,8.8,0,Sunny,892.94
+799,2025-09-06,Belo Horizonte,São Paulo,Truck 19,1370,845.42,141.71,279.33,6.1,1,Sunny,1266.46
+800,2025-06-15,Goiânia,Porto Alegre,Truck 15,0,401.45,183.4,236.81,7.2,1,Cloudy,821.6600000000001
+801,2025-12-01,Belo Horizonte,Fortaleza,Truck 4,3100,859.0,151.36,217.02,10.3,1,Sunny,1227.38
+802,2025-01-30,Belo Horizonte,Rio de Janeiro,Truck 12,1660,268.21,152.38,82.21,6.1,0,Rainy,502.79999999999995
+803,2025-09-04,Fortaleza,Rio de Janeiro,Truck 6,740,892.95,34.4,253.79,10.7,0,Sunny,1181.14
+804,2025-04-16,Rio de Janeiro,Recife,Truck 19,2230,599.35,84.7,128.25,6.7,1,Sunny,812.3000000000001
+805,2025-02-20,Recife,Porto Alegre,Truck 4,1640,437.23,174.51,81.67,5.7,1,Sunny,693.41
+806,2025-03-22,Rio de Janeiro,Salvador,Truck 15,900,412.09,61.87,115.25,6.8,0,Rainy,589.21
+807,2025-05-13,Salvador,Salvador,Truck 9,710,545.61,40.79,250.78,4.0,1,Sunny,837.18
+808,2025-10-12,Goiânia,Brasília,Truck 5,2500,999.24,78.7,44.59,2.6,1,Sunny,1122.53
+809,2025-05-18,Porto Alegre,Fortaleza,Truck 13,210,376.26,59.68,136.85,7.8,1,Rainy,572.79
+810,2025-07-03,Brasília,Fortaleza,Truck 18,2660,282.57,186.55,147.71,7.8,1,Sunny,616.83
+811,2025-11-26,Salvador,Belo Horizonte,Truck 5,2660,668.03,176.23,10.99,8.6,1,Sunny,855.25
+812,2025-09-30,Brasília,Curitiba,Truck 16,3120,590.83,109.94,58.72,7.8,1,Sunny,759.49
+813,2025-12-06,Brasília,Recife,Truck 19,2020,619.36,31.04,248.02,13.8,1,Sunny,898.42
+814,2025-03-10,Porto Alegre,Rio de Janeiro,Truck 14,0,733.55,148.62,249.23,8.4,0,Rainy,1131.3999999999999
+815,2025-02-03,São Paulo,Recife,Truck 16,2100,413.72,132.21,87.72,4.6,1,Rainy,633.6500000000001
+816,2025-09-19,Rio de Janeiro,Salvador,Truck 15,3700,928.53,194.7,262.47,5.2,0,Cloudy,1385.7
+817,2025-02-22,Belo Horizonte,Salvador,Truck 4,0,548.54,120.61,231.53,8.0,0,Rainy,900.68
+818,2025-07-24,Curitiba,São Paulo,Truck 7,1640,303.27,80.55,125.37,6.9,1,Sunny,509.19
+819,2025-05-06,Brasília,Brasília,Truck 16,800,793.84,113.42,224.52,4.9,1,Cloudy,1131.78
+820,2025-08-23,Goiânia,Fortaleza,Truck 8,1570,714.48,196.27,288.4,7.9,1,Sunny,1199.15
+821,2025-02-12,Salvador,Goiânia,Truck 17,590,452.59,145.35,137.69,7.9,1,Sunny,735.6299999999999
+822,2025-08-28,São Paulo,Recife,Truck 16,1370,697.21,140.96,71.53,12.0,1,Sunny,909.7
+823,2025-04-21,Brasília,Salvador,Truck 10,2310,375.89,63.32,282.54,5.7,1,Sunny,721.75
+824,2025-09-06,São Paulo,Curitiba,Truck 10,2500,555.87,153.85,181.12,7.0,1,Rainy,890.84
+825,2025-05-31,São Paulo,Belo Horizonte,Truck 2,410,919.53,155.05,31.58,12.0,1,Sunny,1106.1599999999999
+826,2025-07-02,Brasília,Rio de Janeiro,Truck 9,0,306.83,77.11,171.8,8.8,0,Sunny,555.74
+827,2025-12-02,Fortaleza,Brasília,Truck 17,2320,509.36,107.07,150.17,5.7,1,Sunny,766.6
+828,2025-04-05,Recife,Curitiba,Truck 11,1140,856.91,73.03,256.68,6.2,1,Sunny,1186.62
+829,2025-01-08,Goiânia,Brasília,Truck 10,3120,975.59,66.57,159.21,5.0,1,Sunny,1201.3700000000001
+830,2025-12-26,Belo Horizonte,São Paulo,Truck 17,2500,563.14,24.66,76.57,8.2,1,Rainy,664.3699999999999
+831,2025-07-03,Belo Horizonte,Goiânia,Truck 4,1350,605.6,71.34,202.69,10.6,1,Sunny,879.6300000000001
+832,2025-10-08,Goiânia,Salvador,Truck 16,2100,657.74,119.71,162.77,12.1,1,Cloudy,940.22
+833,2025-07-14,Fortaleza,Belo Horizonte,Truck 20,2410,945.88,20.29,69.91,4.3,1,Sunny,1036.08
+834,2025-12-18,Belo Horizonte,Curitiba,Truck 15,2310,886.57,70.98,172.09,10.2,1,Sunny,1129.64
+835,2025-07-14,São Paulo,Brasília,Truck 5,2410,336.48,178.65,246.46,8.4,0,Rainy,761.59
+836,2025-06-04,Porto Alegre,Fortaleza,Truck 6,740,549.41,126.86,8.57,7.3,1,Cloudy,684.84
+837,2025-04-03,Salvador,São Paulo,Truck 17,1570,571.2,129.42,189.26,7.0,1,Sunny,889.88
+838,2025-06-09,Rio de Janeiro,Fortaleza,Truck 1,1370,831.28,92.61,104.88,3.2,0,Rainy,1028.77
+839,2025-03-02,Belo Horizonte,Belo Horizonte,Truck 19,1100,682.31,141.76,87.8,9.6,1,Cloudy,911.8699999999999
+840,2025-05-02,Goiânia,Curitiba,Truck 4,3500,723.38,54.19,117.78,4.7,1,Cloudy,895.3499999999999
+841,2025-02-20,Porto Alegre,São Paulo,Truck 17,210,998.56,167.37,102.61,6.1,0,Rainy,1268.5399999999997
+842,2025-10-04,Brasília,Curitiba,Truck 9,0,259.97,41.0,249.67,9.0,1,Rainy,550.64
+843,2025-01-05,Recife,Salvador,Truck 2,2530,378.41,138.08,82.44,3.5,1,Sunny,598.9300000000001
+844,2025-04-02,Goiânia,Porto Alegre,Truck 8,2800,526.32,81.41,219.95,4.7,1,Cloudy,827.6800000000001
+845,2025-06-19,São Paulo,São Paulo,Truck 15,2070,478.23,154.55,28.22,11.0,1,Sunny,661.0
+846,2025-11-13,Recife,Fortaleza,Truck 7,2020,217.32,118.96,285.42,8.3,1,Cloudy,621.7
+847,2025-01-22,Salvador,Belo Horizonte,Truck 6,410,273.42,101.42,186.69,6.3,1,Sunny,561.53
+848,2025-11-22,Salvador,Goiânia,Truck 1,1450,744.76,50.5,212.02,8.3,1,Sunny,1007.28
+849,2025-01-01,Fortaleza,Salvador,Truck 15,1040,903.46,134.63,89.41,9.7,1,Sunny,1127.5000000000002
+850,2025-05-13,Curitiba,Porto Alegre,Truck 7,800,611.38,195.46,123.63,10.8,1,Sunny,930.47
+851,2025-08-21,Fortaleza,Goiânia,Truck 17,1700,631.35,168.61,67.13,5.2,0,Sunny,867.09
+852,2025-01-12,Porto Alegre,Rio de Janeiro,Truck 2,0,404.07,30.8,279.76,5.4,1,Sunny,714.63
+853,2025-12-12,Recife,Salvador,Truck 9,450,814.3,87.72,146.43,9.5,1,Rainy,1048.45
+854,2025-02-15,Curitiba,Belo Horizonte,Truck 9,1700,801.44,186.6,189.13,9.6,1,Rainy,1177.17
+855,2025-02-03,Brasília,Brasília,Truck 13,3120,670.69,110.55,220.28,4.6,0,Sunny,1001.52
+856,2025-03-19,São Paulo,São Paulo,Truck 6,210,370.13,139.18,111.33,5.5,1,Rainy,620.64
+857,2025-08-06,Recife,Curitiba,Truck 6,3100,277.61,184.27,216.03,7.5,0,Sunny,677.91
+858,2025-10-28,Fortaleza,Belo Horizonte,Truck 20,740,251.39,177.28,202.8,8.1,0,Sunny,631.47
+859,2025-03-14,Rio de Janeiro,São Paulo,Truck 20,0,674.16,110.33,211.7,8.1,1,Rainy,996.19
+860,2025-10-09,Curitiba,Goiânia,Truck 3,710,860.03,98.78,146.77,4.6,1,Cloudy,1105.58
+861,2025-09-06,Curitiba,Curitiba,Truck 17,800,886.66,81.14,114.88,8.1,1,Sunny,1082.6799999999998
+862,2025-02-16,São Paulo,Recife,Truck 17,3100,570.9,149.42,66.62,6.2,1,Sunny,786.9399999999999
+863,2025-05-01,Belo Horizonte,Fortaleza,Truck 12,900,827.42,71.66,247.39,5.1,1,Sunny,1146.4699999999998
+864,2025-08-02,Salvador,Rio de Janeiro,Truck 16,3100,957.5,64.98,182.51,8.0,1,Sunny,1204.99
+865,2025-08-27,Salvador,Salvador,Truck 15,2660,420.14,84.12,133.31,7.7,0,Sunny,637.5699999999999
+866,2025-02-25,Rio de Janeiro,Belo Horizonte,Truck 13,1450,518.37,51.9,283.2,10.0,1,Cloudy,853.47
+867,2025-12-16,Porto Alegre,Rio de Janeiro,Truck 1,1700,945.18,145.12,14.35,5.8,1,Cloudy,1104.6499999999999
+868,2025-04-17,Porto Alegre,Brasília,Truck 17,2410,470.58,130.92,255.05,8.6,1,Rainy,856.55
+869,2025-11-15,Brasília,São Paulo,Truck 3,1640,931.1,106.92,299.27,4.1,1,Sunny,1337.29
+870,2025-02-17,Recife,São Paulo,Truck 15,3100,984.84,90.26,266.08,7.3,1,Rainy,1341.18
+871,2025-03-02,Goiânia,Belo Horizonte,Truck 4,930,729.45,183.63,243.13,9.2,1,Sunny,1156.21
+872,2025-12-03,Belo Horizonte,Porto Alegre,Truck 4,430,853.51,25.24,112.29,9.4,1,Sunny,991.04
+873,2025-01-26,Fortaleza,Porto Alegre,Truck 18,2020,799.64,158.44,69.39,9.4,1,Sunny,1027.47
+874,2025-10-19,Goiânia,Recife,Truck 17,1040,759.63,182.34,220.46,10.0,1,Rainy,1162.43
+875,2025-09-14,Goiânia,Fortaleza,Truck 19,800,445.54,100.34,91.37,6.9,1,Cloudy,637.25
+876,2025-01-08,Curitiba,Curitiba,Truck 11,2230,245.68,119.12,52.81,9.2,1,Sunny,417.61
+877,2025-04-23,Rio de Janeiro,Brasília,Truck 20,1100,474.44,190.0,235.96,12.7,1,Sunny,900.4000000000001
+878,2025-12-21,Salvador,Rio de Janeiro,Truck 3,800,733.55,58.21,93.76,6.8,0,Sunny,885.52
+879,2025-09-10,Brasília,Porto Alegre,Truck 8,2410,282.02,113.62,274.33,11.5,0,Cloudy,669.97
+880,2025-06-29,Porto Alegre,Recife,Truck 14,0,209.53,105.45,252.19,10.2,1,Sunny,567.1700000000001
+881,2025-07-26,Rio de Janeiro,Recife,Truck 1,0,311.75,66.51,254.29,7.3,1,Sunny,632.55
+882,2025-10-30,Curitiba,Belo Horizonte,Truck 14,1350,772.59,167.35,231.47,7.5,0,Rainy,1171.41
+883,2025-05-07,Fortaleza,Brasília,Truck 2,3100,978.23,181.93,264.26,8.3,1,Sunny,1424.42
+884,2025-02-25,Brasília,Goiânia,Truck 4,2230,986.45,160.75,241.72,10.1,1,Sunny,1388.92
+885,2025-08-02,Curitiba,Curitiba,Truck 19,590,595.18,55.16,180.75,9.0,1,Sunny,831.0899999999999
+886,2025-01-14,Salvador,Fortaleza,Truck 6,2660,895.48,35.61,88.75,6.8,1,Rainy,1019.84
+887,2025-01-28,Salvador,Salvador,Truck 1,740,789.46,128.98,266.46,2.8,1,Sunny,1184.9
+888,2025-03-19,Salvador,Belo Horizonte,Truck 17,3500,600.83,30.28,252.18,9.7,1,Cloudy,883.29
+889,2025-08-04,Rio de Janeiro,Curitiba,Truck 8,450,658.21,141.11,141.86,3.2,0,Rainy,941.1800000000001
+890,2025-12-31,Rio de Janeiro,Salvador,Truck 19,2310,309.78,115.48,11.72,4.6,1,Sunny,436.98
+891,2025-06-03,Porto Alegre,Salvador,Truck 1,1400,950.13,139.3,191.56,7.0,1,Sunny,1280.99
+892,2025-01-14,Porto Alegre,Brasília,Truck 5,4100,481.54,126.23,15.18,5.0,0,Sunny,622.9499999999999
+893,2025-07-06,Fortaleza,Brasília,Truck 16,3100,556.92,96.09,277.88,8.8,1,Sunny,930.89
+894,2025-11-08,Brasília,Rio de Janeiro,Truck 6,2320,737.33,56.16,288.49,7.3,1,Cloudy,1081.98
+895,2025-01-07,São Paulo,Recife,Truck 8,1550,467.12,75.03,56.85,10.0,1,Cloudy,599.0
+896,2025-01-03,São Paulo,Curitiba,Truck 13,1040,403.41,114.41,202.92,4.0,1,Sunny,720.74
+897,2025-04-21,Curitiba,Belo Horizonte,Truck 16,210,704.84,137.34,27.68,6.3,1,Sunny,869.86
+898,2025-08-26,Salvador,São Paulo,Truck 3,0,219.99,160.31,218.86,8.0,1,Sunny,599.1600000000001
+899,2025-12-29,Brasília,Belo Horizonte,Truck 19,2310,776.58,158.09,104.19,8.1,1,Sunny,1038.8600000000001
+900,2025-08-27,Goiânia,Rio de Janeiro,Truck 12,2500,611.22,195.08,204.32,9.7,1,Sunny,1010.6200000000001
+901,2025-10-01,Rio de Janeiro,Fortaleza,Truck 16,0,684.6,71.45,111.86,5.7,1,Sunny,867.9100000000001
+902,2025-10-21,Recife,Recife,Truck 11,4100,705.5,32.8,43.67,6.8,1,Cloudy,781.9699999999999
+903,2025-08-15,Belo Horizonte,São Paulo,Truck 10,4100,621.64,82.22,121.83,9.3,1,Sunny,825.69
+904,2025-01-15,Fortaleza,Porto Alegre,Truck 20,2530,666.03,153.79,33.8,2.5,1,Sunny,853.6199999999999
+905,2025-07-11,Salvador,Fortaleza,Truck 4,2020,747.03,98.86,173.06,9.0,0,Cloudy,1018.95
+906,2025-04-29,Salvador,Brasília,Truck 12,450,802.5,167.2,12.29,9.9,1,Sunny,981.99
+907,2025-01-28,Salvador,Salvador,Truck 2,450,781.96,118.88,158.2,4.7,1,Sunny,1059.04
+908,2025-07-21,Rio de Janeiro,Porto Alegre,Truck 19,0,895.69,187.36,265.91,7.2,0,Sunny,1348.9600000000003
+909,2025-02-08,Rio de Janeiro,Belo Horizonte,Truck 5,2230,351.55,190.62,251.36,11.7,0,Sunny,793.5300000000001
+910,2025-09-30,Belo Horizonte,Belo Horizonte,Truck 8,2320,520.92,32.47,264.83,9.6,1,Cloudy,818.22
+911,2025-08-19,Goiânia,Brasília,Truck 7,2800,958.24,102.15,276.61,9.1,0,Cloudy,1337.0
+912,2025-03-27,Brasília,Rio de Janeiro,Truck 14,2800,517.27,129.74,31.36,10.5,0,Cloudy,678.37
+913,2025-05-06,Salvador,Curitiba,Truck 3,800,299.9,66.06,38.62,12.5,1,Cloudy,404.58
+914,2025-10-27,São Paulo,Porto Alegre,Truck 18,2070,620.36,93.27,167.1,8.0,0,Sunny,880.73
+915,2025-01-25,Porto Alegre,Porto Alegre,Truck 16,710,287.59,141.98,268.19,7.0,1,Cloudy,697.76
+916,2025-05-25,São Paulo,Goiânia,Truck 19,2410,362.28,60.81,292.3,10.5,1,Cloudy,715.39
+917,2025-01-13,Curitiba,Fortaleza,Truck 19,1640,998.66,128.36,13.88,7.5,1,Sunny,1140.9
+918,2025-07-31,São Paulo,Recife,Truck 18,1640,633.09,145.54,106.73,5.7,1,Sunny,885.36
+919,2025-01-25,Curitiba,Fortaleza,Truck 20,1100,427.25,36.29,63.87,6.6,1,Sunny,527.41
+920,2025-03-09,Recife,Curitiba,Truck 16,740,995.82,109.56,226.79,8.8,1,Sunny,1332.17
+921,2025-03-08,Porto Alegre,Belo Horizonte,Truck 8,1400,973.25,67.35,192.06,6.9,1,Sunny,1232.6599999999999
+922,2025-08-21,São Paulo,Belo Horizonte,Truck 1,2500,552.59,150.39,35.97,7.1,1,Cloudy,738.95
+923,2025-04-19,Recife,Belo Horizonte,Truck 17,2800,408.32,54.12,145.06,5.4,1,Cloudy,607.5
+924,2025-05-26,Fortaleza,Goiânia,Truck 12,900,870.72,180.6,205.63,11.6,1,Sunny,1256.9499999999998
+925,2025-04-21,Brasília,Belo Horizonte,Truck 11,1640,772.5,97.57,233.7,7.1,1,Sunny,1103.77
+926,2025-08-16,Recife,Curitiba,Truck 5,2070,749.55,55.64,6.02,6.2,1,Cloudy,811.2099999999999
+927,2025-04-21,Brasília,Brasília,Truck 12,1360,914.49,98.84,267.14,6.5,1,Rainy,1280.47
+928,2025-02-03,São Paulo,Recife,Truck 17,590,751.53,93.57,170.78,10.0,1,Sunny,1015.8799999999999
+929,2025-04-21,Goiânia,Curitiba,Truck 6,210,427.04,97.21,243.57,9.4,1,Rainy,767.8199999999999
+930,2025-09-21,Recife,Recife,Truck 1,1640,755.09,125.4,242.38,6.7,1,Cloudy,1122.87
+931,2025-08-24,Porto Alegre,Curitiba,Truck 5,2230,444.65,113.81,56.96,8.1,0,Cloudy,615.4200000000001
+932,2025-03-24,São Paulo,Belo Horizonte,Truck 14,0,807.39,46.96,33.05,8.7,1,Sunny,887.4
+933,2025-02-11,Salvador,Brasília,Truck 5,800,695.8,31.8,216.39,6.2,1,Sunny,943.9899999999999
+934,2025-04-11,Rio de Janeiro,Porto Alegre,Truck 1,3120,261.93,151.29,46.93,4.1,1,Cloudy,460.15000000000003
+935,2025-01-06,Recife,Fortaleza,Truck 18,0,610.27,120.75,254.98,9.3,0,Sunny,986.0
+936,2025-06-29,Porto Alegre,Salvador,Truck 16,3120,474.64,84.62,217.86,6.4,1,Rainy,777.12
+937,2025-10-09,Fortaleza,Brasília,Truck 9,1015,462.86,165.5,252.55,9.1,1,Sunny,880.9100000000001
+938,2025-11-16,Salvador,Porto Alegre,Truck 19,2800,681.81,89.85,89.7,8.8,1,Sunny,861.36
+939,2025-08-14,Fortaleza,Rio de Janeiro,Truck 5,410,457.86,163.27,94.98,8.1,1,Sunny,716.11
+940,2025-11-11,São Paulo,Curitiba,Truck 2,2100,821.51,75.04,201.37,6.9,1,Sunny,1097.92
+941,2025-12-31,Rio de Janeiro,Rio de Janeiro,Truck 15,0,256.63,33.11,9.43,6.4,1,Cloudy,299.17
+942,2025-08-17,Recife,Porto Alegre,Truck 7,1700,728.31,187.88,217.95,5.2,1,Sunny,1134.1399999999999
+943,2025-10-16,Recife,Brasília,Truck 4,0,847.36,91.02,250.73,6.5,1,Cloudy,1189.11
+944,2025-05-30,Goiânia,Curitiba,Truck 1,850,738.27,162.68,124.55,9.4,1,Cloudy,1025.5
+945,2025-10-04,Goiânia,Salvador,Truck 13,590,597.78,70.25,229.46,11.5,1,Sunny,897.49
+946,2025-07-17,São Paulo,Belo Horizonte,Truck 20,1700,960.25,136.35,52.38,11.1,1,Rainy,1148.98
+947,2025-03-11,São Paulo,Curitiba,Truck 7,2020,439.95,177.2,96.68,8.4,0,Sunny,713.8299999999999
+948,2025-04-22,Rio de Janeiro,Curitiba,Truck 15,0,215.33,27.5,292.29,11.5,1,Rainy,535.12
+949,2025-01-04,Goiânia,Brasília,Truck 14,450,545.59,169.51,295.9,7.2,1,Sunny,1011.0
+950,2025-12-16,Porto Alegre,Brasília,Truck 19,1350,226.41,122.84,153.78,4.8,1,Sunny,503.03
+951,2025-11-27,Porto Alegre,Porto Alegre,Truck 20,1100,963.15,129.34,280.28,12.8,1,Sunny,1372.77
+952,2025-11-14,Rio de Janeiro,São Paulo,Truck 18,710,367.93,114.17,156.82,9.3,1,Rainy,638.9200000000001
+953,2025-12-16,Porto Alegre,Curitiba,Truck 10,430,831.14,177.41,87.48,4.2,0,Cloudy,1096.03
+954,2025-04-05,Curitiba,Fortaleza,Truck 9,2660,819.66,27.82,80.07,11.9,1,Sunny,927.55
+955,2025-06-01,Brasília,Curitiba,Truck 8,3120,374.18,66.99,278.85,6.1,1,Sunny,720.02
+956,2025-11-07,Rio de Janeiro,Porto Alegre,Truck 10,2320,696.98,177.64,51.73,6.7,1,Sunny,926.35
+957,2025-05-17,Rio de Janeiro,Recife,Truck 17,2070,238.46,155.42,173.89,10.6,0,Cloudy,567.77
+958,2025-09-04,Belo Horizonte,Rio de Janeiro,Truck 2,1360,586.86,23.18,166.66,11.4,1,Sunny,776.6999999999999
+959,2025-08-31,Salvador,Belo Horizonte,Truck 6,0,211.72,113.06,221.89,5.5,1,Rainy,546.67
+960,2025-01-31,Salvador,São Paulo,Truck 5,2230,936.92,115.32,149.77,11.7,1,Sunny,1202.01
+961,2025-02-09,Curitiba,Salvador,Truck 9,1400,980.87,92.16,81.69,10.2,1,Sunny,1154.72
+962,2025-08-17,Goiânia,Salvador,Truck 5,1015,377.83,73.53,50.82,6.0,1,Cloudy,502.18
+963,2025-02-05,São Paulo,Salvador,Truck 18,1550,366.48,142.71,186.25,7.4,0,Rainy,695.44
+964,2025-08-11,São Paulo,Brasília,Truck 20,1450,802.98,57.4,215.7,11.8,1,Rainy,1076.08
+965,2025-01-06,Fortaleza,Salvador,Truck 9,1570,402.7,163.81,170.86,4.1,1,Sunny,737.37
+966,2025-11-18,Curitiba,Belo Horizonte,Truck 17,1100,916.06,164.55,221.51,11.5,1,Cloudy,1302.12
+967,2025-08-08,Rio de Janeiro,Rio de Janeiro,Truck 17,740,659.14,94.75,42.46,10.1,1,Sunny,796.35
+968,2025-03-16,Curitiba,Salvador,Truck 12,1400,480.62,71.04,264.74,9.3,1,Cloudy,816.4
+969,2025-01-04,Curitiba,Curitiba,Truck 7,3100,866.15,71.1,174.72,8.3,0,Sunny,1111.97
+970,2025-12-01,Curitiba,Curitiba,Truck 3,4100,594.73,106.81,38.05,12.9,1,Sunny,739.5899999999999
+971,2025-05-14,Salvador,Brasília,Truck 10,1040,929.31,149.52,138.58,13.3,1,Sunny,1217.4099999999999
+972,2025-04-28,Curitiba,Belo Horizonte,Truck 2,840,942.41,84.6,253.44,6.5,1,Sunny,1280.45
+973,2025-04-04,Brasília,Rio de Janeiro,Truck 3,0,332.34,129.81,269.27,9.5,1,Sunny,731.42
+974,2025-03-03,São Paulo,São Paulo,Truck 16,2230,201.86,88.85,79.39,12.7,1,Cloudy,370.1
+975,2025-07-13,Fortaleza,Porto Alegre,Truck 2,2320,987.14,74.81,213.38,6.0,1,Rainy,1275.33
+976,2025-12-01,Brasília,Rio de Janeiro,Truck 10,1550,924.91,24.47,30.0,8.6,0,Cloudy,979.38
+977,2025-07-22,Fortaleza,Porto Alegre,Truck 6,900,244.36,20.7,10.06,10.5,1,Sunny,275.12
+978,2025-01-26,Belo Horizonte,Recife,Truck 11,0,866.43,60.9,168.12,3.0,1,Sunny,1095.4499999999998
+979,2025-06-22,Fortaleza,Porto Alegre,Truck 7,930,566.24,93.15,208.45,10.1,1,Cloudy,867.8399999999999
+980,2025-10-27,São Paulo,Fortaleza,Truck 15,1360,407.17,173.23,238.74,5.3,1,Sunny,819.14
+981,2025-05-13,São Paulo,Curitiba,Truck 6,1370,903.0,163.73,102.06,8.5,0,Sunny,1168.79
+982,2025-11-22,Curitiba,Belo Horizonte,Truck 20,2310,357.33,68.09,1.96,10.9,1,Cloudy,427.37999999999994
+983,2025-04-28,Recife,Goiânia,Truck 9,3120,957.84,64.02,143.86,2.0,1,Sunny,1165.72
+984,2025-11-20,Belo Horizonte,Brasília,Truck 20,3120,364.5,60.92,4.76,10.0,1,Sunny,430.18
+985,2025-10-02,Rio de Janeiro,Fortaleza,Truck 12,430,690.95,81.06,27.6,13.1,1,Cloudy,799.61
+986,2025-07-31,Porto Alegre,Porto Alegre,Truck 19,840,378.47,109.68,98.01,6.7,1,Sunny,586.1600000000001
+987,2025-08-13,Fortaleza,Salvador,Truck 20,2500,636.53,98.96,131.15,9.4,1,Cloudy,866.64
+988,2025-01-20,Recife,Belo Horizonte,Truck 3,840,747.18,59.29,83.84,11.3,1,Sunny,890.31
+989,2025-04-23,Curitiba,Fortaleza,Truck 15,1960,352.18,43.48,174.56,4.0,1,Rainy,570.22
+990,2025-05-20,Salvador,Brasília,Truck 2,2100,616.71,22.26,16.6,9.9,1,Sunny,655.57
+991,2025-02-16,Rio de Janeiro,Curitiba,Truck 2,1370,575.25,47.71,43.37,10.6,0,Rainy,666.33
+992,2025-01-01,Goiânia,Belo Horizonte,Truck 3,3500,256.83,146.96,208.58,9.6,0,Sunny,612.37
+993,2025-03-31,Recife,Brasília,Truck 6,3100,854.65,63.85,42.64,8.2,1,Cloudy,961.14
+994,2025-05-22,Salvador,Recife,Truck 15,2230,468.55,104.35,191.93,5.5,1,Sunny,764.8299999999999
+995,2025-11-16,Belo Horizonte,Recife,Truck 10,1360,659.67,126.43,16.41,11.5,1,Sunny,802.5099999999999
+996,2025-02-07,Curitiba,Brasília,Truck 9,840,611.83,179.63,122.21,8.1,0,Rainy,913.6700000000001
+997,2025-10-20,Rio de Janeiro,Fortaleza,Truck 1,2410,610.61,179.99,53.22,5.7,1,Sunny,843.82
+998,2025-05-19,Rio de Janeiro,Belo Horizonte,Truck 16,1570,285.78,154.23,32.89,7.2,1,Sunny,472.9
+999,2025-12-22,Rio de Janeiro,Fortaleza,Truck 6,0,538.79,26.33,170.11,8.9,1,Sunny,735.23
+1000,2025-11-29,Belo Horizonte,São Paulo,Truck 9,710,561.89,123.51,278.5,4.1,1,Sunny,963.9
